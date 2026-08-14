@@ -464,13 +464,27 @@
         },
         {
           "node_type": "item",
+          "title": "lagger",
+          "description": "A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-08-10T09:30:38Z",
+            "owner": "tailsmails",
+            "repo": "lagger",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "mushroomtek",
           "description": "Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-09T22:24:03Z",
+            "last_commit": "2026-08-14T18:23:43Z",
             "owner": "tailsmails",
             "repo": "mushroomtek",
             "stars": 4
@@ -576,27 +590,13 @@
         },
         {
           "node_type": "item",
-          "title": "lagger",
-          "description": "A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "V",
-            "last_commit": "2026-08-10T09:30:38Z",
-            "owner": "tailsmails",
-            "repo": "lagger",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "musicc",
           "description": "A lightweight, high-performance command-line music compiler.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-12T19:53:38Z",
+            "last_commit": "2026-08-13T21:32:15Z",
             "owner": "tailsmails",
             "repo": "musicc",
             "stars": 3
@@ -638,7 +638,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T19:14:22Z",
+            "last_commit": "2026-08-13T21:30:36Z",
             "owner": "tailsmails",
             "repo": "timingless",
             "stars": 3
@@ -680,7 +680,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-02T13:53:43Z",
+            "last_commit": "2026-08-14T00:10:04Z",
             "owner": "tailsmails",
             "repo": "gatevay",
             "stars": 1
@@ -708,7 +708,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-12T16:42:11Z",
+            "last_commit": "2026-08-14T00:37:26Z",
             "owner": "tailsmails",
             "repo": "vtrace",
             "stars": 1
@@ -784,10 +784,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T16:42:33Z",
+            "last_commit": "2026-08-14T18:32:18Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37793
+            "stars": 37791
           }
         },
         {
@@ -902,10 +902,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T16:42:33Z",
+            "last_commit": "2026-08-14T18:32:18Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37793
+            "stars": 37791
           }
         },
         {
@@ -1000,7 +1000,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-12T09:59:24Z",
+            "last_commit": "2026-08-14T12:21:07Z",
             "owner": "Egevtech",
             "repo": "dino",
             "stars": 0
@@ -1068,10 +1068,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T16:42:33Z",
+            "last_commit": "2026-08-14T18:32:18Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37793
+            "stars": 37791
           }
         },
         {
@@ -1166,7 +1166,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2020-07-08T09:21:32Z",
+            "last_commit": "2026-08-14T19:03:37Z",
             "owner": "Delta456",
             "repo": "monkey_v",
             "stars": 38
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-06-18T21:50:43Z",
             "owner": "vlang",
             "repo": "vinix",
-            "stars": 2162
+            "stars": 2163
           }
         },
         {
@@ -2026,7 +2026,7 @@
             "last_commit": "2026-08-10T07:20:56Z",
             "owner": "einar-hjortdal",
             "repo": "firebird",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -2119,10 +2119,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T16:42:33Z",
+            "last_commit": "2026-08-14T18:32:18Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37793
+            "stars": 37791
           }
         },
         {
@@ -2645,10 +2645,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T16:42:33Z",
+            "last_commit": "2026-08-14T18:32:18Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37793
+            "stars": 37791
           }
         },
         {
@@ -3224,7 +3224,7 @@
             "last_commit": "2026-05-04T01:03:43Z",
             "owner": "vlang",
             "repo": "ui",
-            "stars": 2514
+            "stars": 2513
           }
         },
         {
@@ -3555,10 +3555,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T16:42:33Z",
+            "last_commit": "2026-08-14T18:32:18Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37793
+            "stars": 37791
           }
         },
         {
@@ -4154,7 +4154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:51:57.106Z",
+    "last_updated": "2026-08-14T19:42:25.686Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_sha": "3a6a03f7d66c2b6a87e76aa4836ec0ec0d055339",
     "enhanced_repository": "enhansome/enhansome-v",
