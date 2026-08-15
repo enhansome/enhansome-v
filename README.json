@@ -484,7 +484,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:23:43Z",
+            "last_commit": "2026-08-15T17:45:39Z",
             "owner": "tailsmails",
             "repo": "mushroomtek",
             "stars": 4
@@ -526,7 +526,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-10T01:02:02Z",
+            "last_commit": "2026-08-15T12:09:49Z",
             "owner": "tailsmails",
             "repo": "sockslender",
             "stars": 4
@@ -610,7 +610,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-09T18:34:53Z",
+            "last_commit": "2026-08-15T12:40:20Z",
             "owner": "tailsmails",
             "repo": "oscall",
             "stars": 3
@@ -764,7 +764,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-10T00:55:11Z",
+            "last_commit": "2026-08-15T11:58:45Z",
             "owner": "tailsmails",
             "repo": "waterjail",
             "stars": 0
@@ -784,10 +784,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:32:18Z",
+            "last_commit": "2026-08-15T19:14:01Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37791
+            "stars": 37792
           }
         },
         {
@@ -902,10 +902,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:32:18Z",
+            "last_commit": "2026-08-15T19:14:01Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37791
+            "stars": 37792
           }
         },
         {
@@ -1068,10 +1068,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:32:18Z",
+            "last_commit": "2026-08-15T19:14:01Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37791
+            "stars": 37792
           }
         },
         {
@@ -1169,7 +1169,7 @@
             "last_commit": "2026-08-14T19:03:37Z",
             "owner": "Delta456",
             "repo": "monkey_v",
-            "stars": 38
+            "stars": 43
           }
         },
         {
@@ -2119,10 +2119,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:32:18Z",
+            "last_commit": "2026-08-15T19:14:01Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37791
+            "stars": 37792
           }
         },
         {
@@ -2645,10 +2645,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:32:18Z",
+            "last_commit": "2026-08-15T19:14:01Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37791
+            "stars": 37792
           }
         },
         {
@@ -3555,10 +3555,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-14T18:32:18Z",
+            "last_commit": "2026-08-15T19:14:01Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37791
+            "stars": 37792
           }
         },
         {
@@ -4154,9 +4154,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:42:25.686Z",
+    "last_updated": "2026-08-15T19:15:17.587Z",
     "original_repository": "vlang/awesome-v",
-    "original_repository_sha": "3a6a03f7d66c2b6a87e76aa4836ec0ec0d055339",
+    "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
     "enhanced_repository": "enhansome/enhansome-v",
     "enhanced_repository_description": null,
     "title": "Awesome V with stars"
