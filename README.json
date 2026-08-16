@@ -428,7 +428,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-12T16:01:51Z",
+            "last_commit": "2026-08-16T10:19:04Z",
             "owner": "tailsmails",
             "repo": "netprint",
             "stars": 5
@@ -484,7 +484,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T17:45:39Z",
+            "last_commit": "2026-08-16T15:58:12Z",
             "owner": "tailsmails",
             "repo": "mushroomtek",
             "stars": 4
@@ -526,7 +526,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T12:09:49Z",
+            "last_commit": "2026-08-16T10:55:30Z",
             "owner": "tailsmails",
             "repo": "sockslender",
             "stars": 4
@@ -784,10 +784,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T19:14:01Z",
+            "last_commit": "2026-08-16T19:09:37Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37792
+            "stars": 37795
           }
         },
         {
@@ -902,10 +902,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T19:14:01Z",
+            "last_commit": "2026-08-16T19:09:37Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37792
+            "stars": 37795
           }
         },
         {
@@ -1068,10 +1068,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T19:14:01Z",
+            "last_commit": "2026-08-16T19:09:37Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37792
+            "stars": 37795
           }
         },
         {
@@ -1169,7 +1169,7 @@
             "last_commit": "2026-08-14T19:03:37Z",
             "owner": "Delta456",
             "repo": "monkey_v",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -2119,10 +2119,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T19:14:01Z",
+            "last_commit": "2026-08-16T19:09:37Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37792
+            "stars": 37795
           }
         },
         {
@@ -2645,10 +2645,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T19:14:01Z",
+            "last_commit": "2026-08-16T19:09:37Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37792
+            "stars": 37795
           }
         },
         {
@@ -2875,7 +2875,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-07-10T14:06:01Z",
+            "last_commit": "2026-08-15T22:42:02Z",
             "owner": "rodabt",
             "repo": "vstats",
             "stars": 5
@@ -3555,10 +3555,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T19:14:01Z",
+            "last_commit": "2026-08-16T19:09:37Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37792
+            "stars": 37795
           }
         },
         {
@@ -3765,7 +3765,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-12T06:46:12Z",
+            "last_commit": "2026-08-16T04:38:13Z",
             "owner": "deatil",
             "repo": "v-sm3",
             "stars": 1
@@ -3954,7 +3954,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:08:11Z",
+            "last_commit": "2026-08-16T05:56:41Z",
             "owner": "vlang",
             "repo": "setup-v",
             "stars": 33
@@ -4154,7 +4154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:15:17.587Z",
+    "last_updated": "2026-08-16T19:14:33.155Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
     "enhanced_repository": "enhansome/enhansome-v",
