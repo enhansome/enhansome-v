@@ -456,7 +456,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-02T13:12:04Z",
+            "last_commit": "2026-08-17T10:54:46Z",
             "owner": "tailsmails",
             "repo": "envelop",
             "stars": 4
@@ -568,7 +568,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-02T13:51:23Z",
+            "last_commit": "2026-08-17T10:38:30Z",
             "owner": "tailsmails",
             "repo": "fastgit",
             "stars": 3
@@ -716,6 +716,20 @@
         },
         {
           "node_type": "item",
+          "title": "waterjail",
+          "description": "A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-08-15T11:58:45Z",
+            "owner": "tailsmails",
+            "repo": "waterjail",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "anyside",
           "description": "Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.",
           "children": [],
@@ -755,20 +769,6 @@
             "repo": "vsnap",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "waterjail",
-          "description": "A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "V",
-            "last_commit": "2026-08-15T11:58:45Z",
-            "owner": "tailsmails",
-            "repo": "waterjail",
-            "stars": 0
-          }
         }
       ],
       "title": "Command-line"
@@ -784,7 +784,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T19:09:37Z",
+            "last_commit": "2026-08-17T17:21:59Z",
             "owner": "vlang",
             "repo": "v",
             "stars": 37795
@@ -812,7 +812,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-08T15:06:39Z",
+            "last_commit": "2026-08-17T11:13:39Z",
             "owner": "tauraamui",
             "repo": "lilly",
             "stars": 461
@@ -902,7 +902,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T19:09:37Z",
+            "last_commit": "2026-08-17T17:21:59Z",
             "owner": "vlang",
             "repo": "v",
             "stars": 37795
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T19:09:37Z",
+            "last_commit": "2026-08-17T17:21:59Z",
             "owner": "vlang",
             "repo": "v",
             "stars": 37795
@@ -2119,7 +2119,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T19:09:37Z",
+            "last_commit": "2026-08-17T17:21:59Z",
             "owner": "vlang",
             "repo": "v",
             "stars": 37795
@@ -2552,7 +2552,7 @@
             "last_commit": "2026-08-10T12:20:56Z",
             "owner": "guweigang",
             "repo": "vjsx",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -2645,7 +2645,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T19:09:37Z",
+            "last_commit": "2026-08-17T17:21:59Z",
             "owner": "vlang",
             "repo": "v",
             "stars": 37795
@@ -3224,7 +3224,7 @@
             "last_commit": "2026-05-04T01:03:43Z",
             "owner": "vlang",
             "repo": "ui",
-            "stars": 2513
+            "stars": 2511
           }
         },
         {
@@ -3555,7 +3555,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T19:09:37Z",
+            "last_commit": "2026-08-17T17:21:59Z",
             "owner": "vlang",
             "repo": "v",
             "stars": 37795
@@ -4154,7 +4154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:14:33.155Z",
+    "last_updated": "2026-08-17T19:21:07.417Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
     "enhanced_repository": "enhansome/enhansome-v",
