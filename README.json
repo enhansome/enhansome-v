@@ -610,7 +610,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T12:40:20Z",
+            "last_commit": "2026-08-18T13:54:23Z",
             "owner": "tailsmails",
             "repo": "oscall",
             "stars": 3
@@ -784,10 +784,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-17T17:21:59Z",
+            "last_commit": "2026-08-18T15:11:31Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37795
+            "stars": 37797
           }
         },
         {
@@ -902,10 +902,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-17T17:21:59Z",
+            "last_commit": "2026-08-18T15:11:31Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37795
+            "stars": 37797
           }
         },
         {
@@ -1068,10 +1068,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-17T17:21:59Z",
+            "last_commit": "2026-08-18T15:11:31Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37795
+            "stars": 37797
           }
         },
         {
@@ -1414,7 +1414,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T18:16:00Z",
+            "last_commit": "2026-08-18T12:22:21Z",
             "owner": "hyperpolymath",
             "repo": "boj-server",
             "stars": 3
@@ -1431,7 +1431,7 @@
             "last_commit": "2026-06-10T12:04:54Z",
             "owner": "Matejsdevelopment",
             "repo": "raur",
-            "stars": 1
+            "stars": 2
           }
         },
         {
@@ -1465,7 +1465,7 @@
             "last_commit": "2026-07-11T11:23:02Z",
             "owner": "vlang",
             "repo": "gitly",
-            "stars": 1476
+            "stars": 1477
           }
         },
         {
@@ -2119,10 +2119,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-17T17:21:59Z",
+            "last_commit": "2026-08-18T15:11:31Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37795
+            "stars": 37797
           }
         },
         {
@@ -2645,10 +2645,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-17T17:21:59Z",
+            "last_commit": "2026-08-18T15:11:31Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37795
+            "stars": 37797
           }
         },
         {
@@ -2875,7 +2875,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-15T22:42:02Z",
+            "last_commit": "2026-08-18T01:18:51Z",
             "owner": "rodabt",
             "repo": "vstats",
             "stars": 5
@@ -3555,10 +3555,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-17T17:21:59Z",
+            "last_commit": "2026-08-18T15:11:31Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37795
+            "stars": 37797
           }
         },
         {
@@ -3751,10 +3751,10 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-13T11:20:17Z",
+            "last_commit": "2026-08-18T14:47:22Z",
             "owner": "deatil",
             "repo": "v-jwt",
-            "stars": 1
+            "stars": 2
           }
         },
         {
@@ -3765,7 +3765,7 @@
           "repo_info": {
             "archived": false,
             "language": "V",
-            "last_commit": "2026-08-16T04:38:13Z",
+            "last_commit": "2026-08-18T14:46:12Z",
             "owner": "deatil",
             "repo": "v-sm3",
             "stars": 1
@@ -4154,7 +4154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:21:07.417Z",
+    "last_updated": "2026-08-18T19:21:12.479Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
     "enhanced_repository": "enhansome/enhansome-v",
