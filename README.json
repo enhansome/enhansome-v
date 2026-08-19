@@ -838,10 +838,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T10:56:32Z",
+                "last_commit": "2026-08-19T17:30:27Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37798
+                "stars": 37797
               }
             },
             {
@@ -868,7 +868,7 @@
                 "archived": false,
                 "id": 701493629,
                 "language": "V",
-                "last_commit": "2026-08-17T11:13:39Z",
+                "last_commit": "2026-08-19T19:12:53Z",
                 "owner": "tauraamui",
                 "repo": "lilly",
                 "stars": 461
@@ -965,10 +965,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T10:56:32Z",
+                "last_commit": "2026-08-19T17:30:27Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37798
+                "stars": 37797
               }
             },
             {
@@ -1144,10 +1144,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T10:56:32Z",
+                "last_commit": "2026-08-19T17:30:27Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37798
+                "stars": 37797
               }
             },
             {
@@ -2277,10 +2277,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T10:56:32Z",
+                "last_commit": "2026-08-19T17:30:27Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37798
+                "stars": 37797
               }
             },
             {
@@ -2844,10 +2844,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T10:56:32Z",
+                "last_commit": "2026-08-19T17:30:27Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37798
+                "stars": 37797
               }
             },
             {
@@ -3823,10 +3823,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T10:56:32Z",
+                "last_commit": "2026-08-19T17:30:27Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37798
+                "stars": 37797
               }
             },
             {
@@ -4261,7 +4261,7 @@
                 "archived": false,
                 "id": 459475779,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T05:56:41Z",
+                "last_commit": "2026-08-19T13:38:30Z",
                 "owner": "vlang",
                 "repo": "setup-v",
                 "stars": 33
@@ -4470,7 +4470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:10.296Z",
+    "last_updated": "2026-08-19T19:18:16.038Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
