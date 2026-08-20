@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 466723581,
                 "language": "V",
-                "last_commit": "2026-06-29T17:14:10Z",
+                "last_commit": "2026-08-20T13:09:16Z",
                 "owner": "hungrybluedev",
                 "repo": "klonol",
                 "stars": 20
@@ -426,7 +426,7 @@
                 "archived": false,
                 "id": 1174298225,
                 "language": "V",
-                "last_commit": "2026-08-12T10:55:14Z",
+                "last_commit": "2026-08-20T18:52:27Z",
                 "owner": "tailsmails",
                 "repo": "dnshammer",
                 "stars": 6
@@ -445,6 +445,21 @@
                 "owner": "tailsmails",
                 "repo": "stripshot",
                 "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mushroomtek",
+              "description": "Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1147534954,
+                "language": "V",
+                "last_commit": "2026-08-16T15:58:12Z",
+                "owner": "tailsmails",
+                "repo": "mushroomtek",
+                "stars": 5
               }
             },
             {
@@ -504,21 +519,6 @@
                 "last_commit": "2026-08-10T09:30:38Z",
                 "owner": "tailsmails",
                 "repo": "lagger",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "mushroomtek",
-              "description": "Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1147534954,
-                "language": "V",
-                "last_commit": "2026-08-16T15:58:12Z",
-                "owner": "tailsmails",
-                "repo": "mushroomtek",
                 "stars": 4
               }
             },
@@ -838,7 +838,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T17:30:27Z",
+                "last_commit": "2026-08-20T18:28:56Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37797
@@ -871,7 +871,7 @@
                 "last_commit": "2026-08-19T19:12:53Z",
                 "owner": "tauraamui",
                 "repo": "lilly",
-                "stars": 461
+                "stars": 462
               }
             },
             {
@@ -943,7 +943,7 @@
                 "archived": false,
                 "id": 1233797458,
                 "language": "V",
-                "last_commit": "2026-08-10T02:11:59Z",
+                "last_commit": "2026-08-20T16:51:04Z",
                 "owner": "undivisible",
                 "repo": "vro",
                 "stars": 5
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T17:30:27Z",
+                "last_commit": "2026-08-20T18:28:56Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37797
@@ -1144,7 +1144,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T17:30:27Z",
+                "last_commit": "2026-08-20T18:28:56Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37797
@@ -2277,7 +2277,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T17:30:27Z",
+                "last_commit": "2026-08-20T18:28:56Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37797
@@ -2740,7 +2740,7 @@
                 "archived": false,
                 "id": 1192529252,
                 "language": "V",
-                "last_commit": "2026-08-10T12:20:56Z",
+                "last_commit": "2026-08-20T12:01:13Z",
                 "owner": "guweigang",
                 "repo": "vjsx",
                 "stars": 3
@@ -2844,7 +2844,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T17:30:27Z",
+                "last_commit": "2026-08-20T18:28:56Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37797
@@ -3247,7 +3247,7 @@
                 "archived": false,
                 "id": 718670157,
                 "language": "V",
-                "last_commit": "2026-06-29T02:43:59Z",
+                "last_commit": "2026-08-20T16:11:58Z",
                 "owner": "hungrybluedev",
                 "repo": "xlsx",
                 "stars": 30
@@ -3823,7 +3823,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-19T17:30:27Z",
+                "last_commit": "2026-08-20T18:28:56Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37797
@@ -3943,7 +3943,7 @@
                 "archived": false,
                 "id": 649584437,
                 "language": "V",
-                "last_commit": "2026-08-10T07:42:09Z",
+                "last_commit": "2026-08-20T15:25:30Z",
                 "owner": "einar-hjortdal",
                 "repo": "sessions",
                 "stars": 8
@@ -4033,7 +4033,7 @@
                 "archived": false,
                 "id": 1330069772,
                 "language": "V",
-                "last_commit": "2026-08-18T14:47:22Z",
+                "last_commit": "2026-08-20T15:10:27Z",
                 "owner": "deatil",
                 "repo": "v-jwt",
                 "stars": 2
@@ -4063,7 +4063,7 @@
                 "archived": false,
                 "id": 970792892,
                 "language": "V",
-                "last_commit": "2025-12-17T14:44:27Z",
+                "last_commit": "2026-08-20T16:17:25Z",
                 "owner": "einar-hjortdal",
                 "repo": "blobly",
                 "stars": 0
@@ -4261,7 +4261,7 @@
                 "archived": false,
                 "id": 459475779,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T13:38:30Z",
+                "last_commit": "2026-08-20T04:50:47Z",
                 "owner": "vlang",
                 "repo": "setup-v",
                 "stars": 33
@@ -4470,7 +4470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:18:16.038Z",
+    "last_updated": "2026-08-20T19:23:41.726Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
