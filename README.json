@@ -838,10 +838,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-20T18:28:56Z",
+                "last_commit": "2026-08-21T12:22:42Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37797
+                "stars": 37803
               }
             },
             {
@@ -871,7 +871,7 @@
                 "last_commit": "2026-08-19T19:12:53Z",
                 "owner": "tauraamui",
                 "repo": "lilly",
-                "stars": 462
+                "stars": 463
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2025-05-24T18:47:13Z",
                 "owner": "larpon",
                 "repo": "vee",
-                "stars": 60
+                "stars": 58
               }
             },
             {
@@ -943,7 +943,7 @@
                 "archived": false,
                 "id": 1233797458,
                 "language": "V",
-                "last_commit": "2026-08-20T16:51:04Z",
+                "last_commit": "2026-08-21T02:38:08Z",
                 "owner": "undivisible",
                 "repo": "vro",
                 "stars": 5
@@ -965,10 +965,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-20T18:28:56Z",
+                "last_commit": "2026-08-21T12:22:42Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37797
+                "stars": 37803
               }
             },
             {
@@ -1144,10 +1144,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-20T18:28:56Z",
+                "last_commit": "2026-08-21T12:22:42Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37797
+                "stars": 37803
               }
             },
             {
@@ -1252,7 +1252,7 @@
                 "last_commit": "2026-08-14T19:03:37Z",
                 "owner": "Delta456",
                 "repo": "monkey_v",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -2277,10 +2277,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-20T18:28:56Z",
+                "last_commit": "2026-08-21T12:22:42Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37797
+                "stars": 37803
               }
             },
             {
@@ -2844,10 +2844,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-20T18:28:56Z",
+                "last_commit": "2026-08-21T12:22:42Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37797
+                "stars": 37803
               }
             },
             {
@@ -3527,7 +3527,7 @@
                 "last_commit": "2024-12-02T16:33:30Z",
                 "owner": "ttytm",
                 "repo": "webview",
-                "stars": 83
+                "stars": 82
               }
             },
             {
@@ -3823,10 +3823,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-20T18:28:56Z",
+                "last_commit": "2026-08-21T12:22:42Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37797
+                "stars": 37803
               }
             },
             {
@@ -4063,7 +4063,7 @@
                 "archived": false,
                 "id": 970792892,
                 "language": "V",
-                "last_commit": "2026-08-20T16:17:25Z",
+                "last_commit": "2026-08-21T10:14:11Z",
                 "owner": "einar-hjortdal",
                 "repo": "blobly",
                 "stars": 0
@@ -4470,7 +4470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:23:41.726Z",
+    "last_updated": "2026-08-21T19:19:16.957Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
