@@ -106,7 +106,7 @@
 * [envelop](https://github.com/tailsmails/envelop) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-08-17 - Generates background HTTP HEAD requests to obfuscate real web traffic.
 * [lagger](https://github.com/tailsmails/lagger) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-08-10 - A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.
 * [newfolder](https://github.com/tailsmails/newfolder) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-08-02 - A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.
-* [PhoneSnatchProof](https://github.com/tailsmails/PhoneSnatchProof) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-08-11 - An FS that encrypts your app data and keeps them on RAM (with a backup).
+* [PhoneSnatchProof](https://github.com/tailsmails/PhoneSnatchProof) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-08-22 - An FS that encrypts your app data and keeps them on RAM (with a backup).
 * [sockslender](https://github.com/tailsmails/sockslender) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-08-16 - A lightweight, blazing-fast SOCKS5 proxy failover tool written in V.
 * [zilch](https://github.com/mike-ward/zilch) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2025-11-27 - An entertaining and amusing simulation of an installer.
 * [amdim](https://github.com/tailsmails/amdim) ⭐ 3 | 🐛 0 | 🌐 V | 📅 2026-07-11 - Make your screen dimmer than 0%.
@@ -121,25 +121,25 @@
 * [gatevay](https://github.com/tailsmails/gatevay) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2026-08-14 - A lightweight, multi-gateway SOCKS5 proxy tool.
 * [pixviper](https://github.com/tailsmails/pixviper) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2026-08-12 - A parallel template matching and de-redaction investigation tool written in V.
 * [vtrace](https://github.com/tailsmails/vtrace) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2026-08-14 - An automated execution tracer and step-by-step source code instrumenter for the V programming language.
-* [waterjail](https://github.com/tailsmails/waterjail) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2026-08-15 - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
+* [waterjail](https://github.com/tailsmails/waterjail) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2026-08-22 - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
 * [anyside](https://github.com/tailsmails/anyside) ⭐ 0 | 🐛 0 | 🌐 V | 📅 2026-07-11 - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 * [vin32](https://github.com/tailsmails/vin32) ⭐ 0 | 🐛 0 | 🌐 V | 📅 2026-08-10 - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
 * [vsnap](https://github.com/skandhas/vsnap) ⭐ 0 | 🐛 0 | 🌐 V | 📅 2026-07-07 - A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.
 
 ### Editors
 
-* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,803 | 🐛 92 | 🌐 V | 📅 2026-08-21 - Small text editor from the official V examples.
+* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,803 | 🐛 91 | 🌐 V | 📅 2026-08-22 - Small text editor from the official V examples.
 * [ved](https://github.com/vlang/ved) ⭐ 1,476 | 🐛 34 | 🌐 V | 📅 2026-02-15 - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 * [lilly](https://github.com/tauraamui/lilly) ⭐ 463 | 🐛 10 | 🌐 V | 📅 2026-08-19 - TUI editor and VIM/Neovim alternative.
 * [vPDF](https://github.com/vlang/pdf) ⭐ 84 | 🐛 0 | 🌐 V | 📅 2023-12-19 - A module to simplify PDF file creation using the V programming language.
 * [vee](https://github.com/Larpon/vee) ⭐ 58 | 🐛 1 | 🌐 V | 📅 2025-05-24 - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/) ⭐ 58 | 🐛 1 | 🌐 V | 📅 2025-05-24.
 * [volt](https://github.com/Volt-Editor-Team/volt) ⭐ 19 | 🐛 5 | 🌐 V | 📅 2026-07-06 - Aims to be a fully featured text editor written entirely in Vlang.
 * [polygon-editor](https://github.com/ArtemkaKun/polygon-editor) ⚠️ Archived - A tool to create and edit 2D polygons with sprite lookup, created in V.
-* [vro](https://github.com/undivisible/vro) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2026-08-21 - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
+* [vro](https://github.com/undivisible/vro) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-08-21 - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ### Games
 
-* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,803 | 🐛 92 | 🌐 V | 📅 2026-08-21 - A simple flappy learning demo in v.
+* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,803 | 🐛 91 | 🌐 V | 📅 2026-08-22 - A simple flappy learning demo in v.
 * [Boundstone](https://github.com/organization/boundstone) ⭐ 62 | 🐛 3 | 🌐 V | 📅 2020-05-10 - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 * [Kurarin](https://github.com/FireRedz/kurarin) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2026-05-30 - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 * [minesweeper](https://github.com/ali-furkan/minesweeper-v) ⭐ 39 | 🐛 0 | 🌐 V | 📅 2026-01-30 - A simple Minesweeper game written in vlang.
@@ -156,7 +156,7 @@
 
 ### Interpreters/Compilers
 
-* [v](https://github.com/vlang/v) ⭐ 37,803 | 🐛 92 | 🌐 V | 📅 2026-08-21 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
+* [v](https://github.com/vlang/v) ⭐ 37,803 | 🐛 91 | 🌐 V | 📅 2026-08-22 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 * [cotowali](https://github.com/cotowali/cotowali) ⚠️ Archived - A statically typed scripting language that transpiles into POSIX sh.
 * [vas](https://github.com/v420v/vas) ⭐ 111 | 🐛 24 | 🌐 V | 📅 2026-08-01 - A simple x86-64 assembler written in V.
 * [vcc](https://github.com/lemoncmd/vcc) ⭐ 110 | 🐛 0 | 🌐 V | 📅 2024-03-05 - A C compiler written in V.
@@ -268,7 +268,7 @@
 
 ### Eventing
 
-* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,803 | 🐛 92 | 🌐 V | 📅 2026-08-21 - A simple event bus system for V.
+* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,803 | 🐛 91 | 🌐 V | 📅 2026-08-22 - A simple event bus system for V.
 * [rxv](https://github.com/ulises-jeremias/rxv) ⭐ 16 | 🐛 31 | 🌐 V | 📅 2026-08-07 - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
 ### File handling
@@ -308,7 +308,7 @@
 ### Interoperability
 
 * [jni](https://github.com/larpon/jni) ⭐ 29 | 🐛 1 | 🌐 V | 📅 2025-04-09 - V wrapper around the C Java Native Interface (Desktop + Android).
-* [vphp](https://github.com/guweigang/vphp) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2026-07-25 - Vlang library for building PHP extensions natively in Vlang.
+* [vphp](https://github.com/guweigang/vphp) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-07-25 - Vlang library for building PHP extensions natively in Vlang.
 * [vjsx](https://github.com/guweigang/vjsx) ⭐ 3 | 🐛 0 | 🌐 V | 📅 2026-08-20 - V bindings to quickjs javascript engine. Run JS in V.
 
 ### IRC
@@ -325,7 +325,7 @@
 
 ### Operating system
 
-* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,803 | 🐛 92 | 🌐 V | 📅 2026-08-21 - V module for interacting with the OS clipboard. Fully cross-platform.
+* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,803 | 🐛 91 | 🌐 V | 📅 2026-08-22 - V module for interacting with the OS clipboard. Fully cross-platform.
 * [vlipboard](https://github.com/asvvvad/vlipboard) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2020-07-25 - An easy to use wrapper of clipboard with Wayland and Termux support.
 * [mmap](https://github.com/jdonnerstag/vlang-mmap) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2021-06-21 - Provide native V-lang support for memory-mapping on Linux and Windows.
 * [winreg](https://github.com/ldedev/WindowsRegistry) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2024-01-31 - MS Windows Registry API. (WIP)
@@ -389,7 +389,7 @@
 * [mui](https://github.com/malisipi/mui) ⭐ 111 | 🐛 10 | 🌐 V | 📅 2024-08-18 - A Cross-Platform UI library for Windows, Linux, Android and Web.
 * [webview](https://github.com/ttytm/webview) ⭐ 82 | 🐛 5 | 🌐 V | 📅 2024-12-02 - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 * [vgtk3](https://github.com/vgtk/vgtk3) ⭐ 64 | 🐛 3 | 🌐 V | 📅 2022-11-07 - A wrapper for GTK3 in V.
-* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,783 | 🐛 1,235 | 🌐 C++ | 📅 2026-08-19 GUI toolkit.
+* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,811 | 🐛 1,235 | 🌐 C++ | 📅 2026-08-19 GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) ⭐ 54 | 🐛 0 | 🌐 V | 📅 2024-09-17 - Bindings for [Nuklear](https://github.com/vurtun/nuklear) ⚠️ Archived GUI toolkit.
 * [bobatea](https://github.com/tauraamui/bobatea) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2026-06-06 - TUI framework inspired by Bubble Tea.
 
@@ -412,7 +412,7 @@
 
 ### Web
 
-* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,803 | 🐛 92 | 🌐 V | 📅 2026-08-21 - V's built-in web framework.
+* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,803 | 🐛 91 | 🌐 V | 📅 2026-08-22 - V's built-in web framework.
 * [vex](https://github.com/nedpals/vex) ⭐ 342 | 🐛 8 | 🌐 V | 📅 2024-02-03 - Web framework written on V inspired by Express and Sinatra.
 * [valval](https://github.com/taojy123/valval) ⭐ 156 | 🐛 3 | 🌐 V | 📅 2020-12-15 - Web framework written in V, improved by vweb.
 * [pico.v](https://github.com/S-YOU/pico.v) ⭐ 135 | 🐛 4 | 🌐 V | 📅 2020-09-05 - A web server in V based on picoev and picohttpparser.
@@ -420,7 +420,7 @@
 * [validate](https://github.com/endeveit/v-validate) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2020-12-30 - A simple library to validate strings in V.
 * [vite.v](https://github.com/siguici/vite.v) ⭐ 13 | 🐛 0 | 🌐 V | 📅 2026-07-08 - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 * [west](https://github.com/Dracks/West) ⭐ 9 | 🐛 1 | 🌐 V | 📅 2025-03-08 - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
-* [sessions](https://github.com/einar-hjortdal/sessions) ⭐ 8 | 🐛 0 | 🌐 V | 📅 2026-08-20 - Web-framework-agnostic sessions library.
+* [sessions](https://github.com/einar-hjortdal/sessions) ⭐ 8 | 🐛 0 | 🌐 V | 📅 2026-08-22 - Web-framework-agnostic sessions library.
 * [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) ⭐ 8 | 🐛 0 | 🌐 V | 📅 2021-01-07 - A minimalistic Xbox Live authenticator for vweb.
 * [jsonrpcv](https://github.com/Te4nick/jsonrpcv) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2026-04-24 - JSON-RPC 2.0 client+server implementation in pure V.
 * [vcurrency](https://github.com/mehtaarn000/vcurrency) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2021-07-05 - API wrapper (written in V) for <https://api.exchangeratesapi.io>.
@@ -549,4 +549,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

@@ -546,7 +546,7 @@
                 "archived": false,
                 "id": 1166397453,
                 "language": "V",
-                "last_commit": "2026-08-11T19:49:28Z",
+                "last_commit": "2026-08-22T06:43:32Z",
                 "owner": "tailsmails",
                 "repo": "PhoneSnatchProof",
                 "stars": 4
@@ -771,7 +771,7 @@
                 "archived": false,
                 "id": 1309283764,
                 "language": "V",
-                "last_commit": "2026-08-15T11:58:45Z",
+                "last_commit": "2026-08-22T19:09:05Z",
                 "owner": "tailsmails",
                 "repo": "waterjail",
                 "stars": 1
@@ -838,7 +838,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-21T12:22:42Z",
+                "last_commit": "2026-08-22T18:32:52Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -946,7 +946,7 @@
                 "last_commit": "2026-08-21T02:38:08Z",
                 "owner": "undivisible",
                 "repo": "vro",
-                "stars": 5
+                "stars": 6
               }
             }
           ],
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-21T12:22:42Z",
+                "last_commit": "2026-08-22T18:32:52Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -1144,7 +1144,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-21T12:22:42Z",
+                "last_commit": "2026-08-22T18:32:52Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -2277,7 +2277,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-21T12:22:42Z",
+                "last_commit": "2026-08-22T18:32:52Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -2728,7 +2728,7 @@
                 "last_commit": "2026-07-25T02:30:01Z",
                 "owner": "guweigang",
                 "repo": "vphp",
-                "stars": 5
+                "stars": 6
               }
             },
             {
@@ -2844,7 +2844,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-21T12:22:42Z",
+                "last_commit": "2026-08-22T18:32:52Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -3823,7 +3823,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-21T12:22:42Z",
+                "last_commit": "2026-08-22T18:32:52Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -3943,7 +3943,7 @@
                 "archived": false,
                 "id": 649584437,
                 "language": "V",
-                "last_commit": "2026-08-20T15:25:30Z",
+                "last_commit": "2026-08-22T16:57:05Z",
                 "owner": "einar-hjortdal",
                 "repo": "sessions",
                 "stars": 8
@@ -4470,7 +4470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:19:16.957Z",
+    "last_updated": "2026-08-22T19:15:59.665Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
