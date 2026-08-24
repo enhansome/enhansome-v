@@ -771,7 +771,7 @@
                 "archived": false,
                 "id": 1309283764,
                 "language": "V",
-                "last_commit": "2026-08-23T14:30:38Z",
+                "last_commit": "2026-08-23T19:18:48Z",
                 "owner": "tailsmails",
                 "repo": "waterjail",
                 "stars": 1
@@ -838,10 +838,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-23T18:43:12Z",
+                "last_commit": "2026-08-24T13:27:29Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37800
               }
             },
             {
@@ -965,10 +965,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-23T18:43:12Z",
+                "last_commit": "2026-08-24T13:27:29Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37800
               }
             },
             {
@@ -1144,10 +1144,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-23T18:43:12Z",
+                "last_commit": "2026-08-24T13:27:29Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37800
               }
             },
             {
@@ -1326,6 +1326,28 @@
           "description": null,
           "node_type": "group",
           "title": "Operating systems/Kernels"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vpm",
+              "description": "The V language package management tool written in V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199538939,
+                "language": "V",
+                "last_commit": "2026-08-21T17:30:15Z",
+                "owner": "vlang",
+                "repo": "vpm",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Package managers"
         },
         {
           "children": [
@@ -1517,7 +1539,7 @@
                 "archived": false,
                 "id": 1171174209,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T19:03:03Z",
+                "last_commit": "2026-08-24T06:59:28Z",
                 "owner": "hyperpolymath",
                 "repo": "boj-server",
                 "stars": 3
@@ -1572,7 +1594,7 @@
                 "last_commit": "2026-07-11T11:23:02Z",
                 "owner": "vlang",
                 "repo": "gitly",
-                "stars": 1476
+                "stars": 1477
               }
             },
             {
@@ -2277,10 +2299,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-23T18:43:12Z",
+                "last_commit": "2026-08-24T13:27:29Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37800
               }
             },
             {
@@ -2292,7 +2314,7 @@
                 "archived": false,
                 "id": 349640385,
                 "language": "V",
-                "last_commit": "2026-08-07T16:38:25Z",
+                "last_commit": "2026-08-24T05:16:20Z",
                 "owner": "ulises-jeremias",
                 "repo": "rxv",
                 "stars": 16
@@ -2755,6 +2777,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "vitric",
+              "description": "A transparent IRC library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274644212,
+                "language": "V",
+                "last_commit": "2022-08-24T15:39:40Z",
+                "owner": "m-242",
+                "repo": "vitric",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IRC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "vibe",
               "description": "Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.",
               "children": [],
@@ -2844,10 +2888,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-23T18:43:12Z",
+                "last_commit": "2026-08-24T13:27:29Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37800
               }
             },
             {
@@ -3168,6 +3212,28 @@
           "description": null,
           "node_type": "group",
           "title": "Serial Communications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vagi",
+              "description": "Asterisk FastAGI library in V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497580846,
+                "language": "V",
+                "last_commit": "2022-06-21T17:44:28Z",
+                "owner": "Ouri028",
+                "repo": "vagi",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telecommunications"
         },
         {
           "children": [
@@ -3823,10 +3889,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-23T18:43:12Z",
+                "last_commit": "2026-08-24T13:27:29Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37800
               }
             },
             {
@@ -4083,6 +4149,43 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "tree-sitter-v",
+              "description": "Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272107457,
+                "language": "C",
+                "last_commit": "2026-07-27T03:43:56Z",
+                "owner": "undivisible",
+                "repo": "tree-sitter-v",
+                "stars": 3
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "language-v",
+                  "description": "V language support for Atom (port of vscode-vlang).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203861943,
+                    "language": "Makefile",
+                    "last_commit": "2021-03-06T11:43:20Z",
+                    "owner": "Cutlery-Drawer",
+                    "repo": "language-v",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Atom"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -4244,6 +4347,28 @@
               "description": null,
               "node_type": "group",
               "title": "Vim"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "zed-v",
+                  "description": "Support for V syntax highlighting in Zed.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 803998972,
+                    "language": "Rust",
+                    "last_commit": "2026-04-22T22:02:07Z",
+                    "owner": "lv37",
+                    "repo": "zed-v",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Zed"
             }
           ],
           "description": null,
@@ -4261,7 +4386,7 @@
                 "archived": false,
                 "id": 459475779,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T04:50:47Z",
+                "last_commit": "2026-08-24T05:02:28Z",
                 "owner": "vlang",
                 "repo": "setup-v",
                 "stars": 33
@@ -4271,6 +4396,50 @@
           "description": null,
           "node_type": "group",
           "title": "GitHub Actions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "v-project-basement",
+              "description": "A basement for every V project, that contains universal minimum GitHub CI scripts and issue templates for a V project.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 582396343,
+                "language": "V",
+                "last_commit": "2023-09-14T20:09:54Z",
+                "owner": "ArtemkaKun",
+                "repo": "v-project-basement",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub templates"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341548985,
+                "language": "V",
+                "last_commit": "2025-08-01T14:55:10Z",
+                "owner": "pisaiah",
+                "repo": "Vide",
+                "stars": 138
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDEs with V"
         },
         {
           "children": [
@@ -4308,6 +4477,28 @@
           "description": null,
           "node_type": "group",
           "title": "Operating Systems & OS Development Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MVU.v",
+              "description": "MVU pattern (The Elm Architecture) implemented in V programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 592439629,
+                "language": "V",
+                "last_commit": "2023-03-07T18:43:16Z",
+                "owner": "ArtemkaKun",
+                "repo": "MVU.v",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Patterns"
         },
         {
           "children": [
@@ -4470,7 +4661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:15:46.945Z",
+    "last_updated": "2026-08-24T14:03:57.140Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
