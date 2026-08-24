@@ -83,7 +83,7 @@
 * [runner](https://github.com/Naheel-Azawy/runner) ⭐ 28 | 🐛 1 | 🌐 V | 📅 2024-06-22 - A tool that automates running/compiling code written in various programming languages.
 * [HN-top](https://github.com/BafS/hn-top) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2020-03-30 - A simple command to list most recent news from hacker-news.
 * [vlsh](https://github.com/vlshcc/vlsh) ⭐ 23 | 🐛 0 | 🌐 V | 📅 2026-04-17 - \*nix Shell written in V (pipes, plugins, mux mode, etc).
-* [klonol](https://github.com/hungrybluedev/klonol) ⭐ 20 | 🐛 1 | 🌐 V | 📅 2026-08-20 - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
+* [klonol](https://github.com/hungrybluedev/klonol) ⭐ 20 | 🐛 1 | 🌐 V | 📅 2026-08-24 - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 * [vfetch](https://github.com/carlosqsilva/vfetch) ⭐ 17 | 🐛 1 | 🌐 V | 📅 2026-04-21 - A macOS system information fetch written in V.
 * [vLogQL](https://github.com/lmangani/vLogQL) ⭐ 17 | 🐛 0 | 🌐 V | 📅 2024-03-14 - A tiny command-line utility to query LogQL APIs.
 * [vinit](https://github.com/pranavbaburaj/vinit) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2021-05-26 - A tool to generate v projects.
@@ -135,7 +135,7 @@
 * [vee](https://github.com/Larpon/vee) ⭐ 58 | 🐛 1 | 🌐 V | 📅 2025-05-24 - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/) ⭐ 58 | 🐛 1 | 🌐 V | 📅 2025-05-24.
 * [volt](https://github.com/Volt-Editor-Team/volt) ⭐ 19 | 🐛 5 | 🌐 V | 📅 2026-07-06 - Aims to be a fully featured text editor written entirely in Vlang.
 * [polygon-editor](https://github.com/ArtemkaKun/polygon-editor) ⚠️ Archived - A tool to create and edit 2D polygons with sprite lookup, created in V.
-* [vro](https://github.com/undivisible/vro) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-08-21 - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
+* [vro](https://github.com/undivisible/vro) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2026-08-21 - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ### Games
 
@@ -389,7 +389,7 @@
 * [mui](https://github.com/malisipi/mui) ⭐ 111 | 🐛 10 | 🌐 V | 📅 2024-08-18 - A Cross-Platform UI library for Windows, Linux, Android and Web.
 * [webview](https://github.com/ttytm/webview) ⭐ 82 | 🐛 5 | 🌐 V | 📅 2024-12-02 - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 * [vgtk3](https://github.com/vgtk/vgtk3) ⭐ 64 | 🐛 3 | 🌐 V | 📅 2022-11-07 - A wrapper for GTK3 in V.
-* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,842 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 GUI toolkit.
+* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,844 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) ⭐ 54 | 🐛 0 | 🌐 V | 📅 2024-09-17 - Bindings for [Nuklear](https://github.com/vurtun/nuklear) ⚠️ Archived GUI toolkit.
 * [bobatea](https://github.com/tauraamui/bobatea) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2026-06-06 - TUI framework inspired by Bubble Tea.
 

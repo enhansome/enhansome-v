@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 466723581,
                 "language": "V",
-                "last_commit": "2026-08-20T13:09:16Z",
+                "last_commit": "2026-08-24T17:24:01Z",
                 "owner": "hungrybluedev",
                 "repo": "klonol",
                 "stars": 20
@@ -838,7 +838,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-24T13:27:29Z",
+                "last_commit": "2026-08-24T19:16:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37800
@@ -946,7 +946,7 @@
                 "last_commit": "2026-08-21T02:38:08Z",
                 "owner": "undivisible",
                 "repo": "vro",
-                "stars": 6
+                "stars": 7
               }
             }
           ],
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-24T13:27:29Z",
+                "last_commit": "2026-08-24T19:16:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37800
@@ -1144,7 +1144,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-24T13:27:29Z",
+                "last_commit": "2026-08-24T19:16:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37800
@@ -2299,7 +2299,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-24T13:27:29Z",
+                "last_commit": "2026-08-24T19:16:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37800
@@ -2888,7 +2888,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-24T13:27:29Z",
+                "last_commit": "2026-08-24T19:16:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37800
@@ -3889,7 +3889,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-24T13:27:29Z",
+                "last_commit": "2026-08-24T19:16:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37800
@@ -4661,7 +4661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:57.140Z",
+    "last_updated": "2026-08-24T19:21:55.136Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
