@@ -771,7 +771,7 @@
                 "archived": false,
                 "id": 1309283764,
                 "language": "V",
-                "last_commit": "2026-08-23T19:18:48Z",
+                "last_commit": "2026-08-25T14:11:25Z",
                 "owner": "tailsmails",
                 "repo": "waterjail",
                 "stars": 1
@@ -838,10 +838,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T02:36:47Z",
+                "last_commit": "2026-08-25T19:23:13Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37803
               }
             },
             {
@@ -856,7 +856,7 @@
                 "last_commit": "2026-02-15T22:13:12Z",
                 "owner": "vlang",
                 "repo": "ved",
-                "stars": 1476
+                "stars": 1475
               }
             },
             {
@@ -871,7 +871,7 @@
                 "last_commit": "2026-08-19T19:12:53Z",
                 "owner": "tauraamui",
                 "repo": "lilly",
-                "stars": 463
+                "stars": 464
               }
             },
             {
@@ -916,7 +916,7 @@
                 "last_commit": "2026-07-06T01:08:00Z",
                 "owner": "Volt-Editor-Team",
                 "repo": "volt",
-                "stars": 19
+                "stars": 20
               }
             },
             {
@@ -965,10 +965,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T02:36:47Z",
+                "last_commit": "2026-08-25T19:23:13Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37803
               }
             },
             {
@@ -1144,10 +1144,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T02:36:47Z",
+                "last_commit": "2026-08-25T19:23:13Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37803
               }
             },
             {
@@ -1234,7 +1234,7 @@
                 "archived": false,
                 "id": 354376896,
                 "language": "V",
-                "last_commit": "2026-08-22T21:38:53Z",
+                "last_commit": "2026-08-25T14:14:05Z",
                 "owner": "russo-2025",
                 "repo": "papyrus-compiler",
                 "stars": 55
@@ -2299,10 +2299,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T02:36:47Z",
+                "last_commit": "2026-08-25T19:23:13Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37803
               }
             },
             {
@@ -2888,10 +2888,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T02:36:47Z",
+                "last_commit": "2026-08-25T19:23:13Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37803
               }
             },
             {
@@ -3889,10 +3889,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T02:36:47Z",
+                "last_commit": "2026-08-25T19:23:13Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37803
               }
             },
             {
@@ -4099,7 +4099,7 @@
                 "archived": false,
                 "id": 1330069772,
                 "language": "V",
-                "last_commit": "2026-08-20T15:10:27Z",
+                "last_commit": "2026-08-25T12:46:38Z",
                 "owner": "deatil",
                 "repo": "v-jwt",
                 "stars": 2
@@ -4129,7 +4129,7 @@
                 "archived": false,
                 "id": 970792892,
                 "language": "V",
-                "last_commit": "2026-08-21T10:14:11Z",
+                "last_commit": "2026-08-25T08:51:30Z",
                 "owner": "einar-hjortdal",
                 "repo": "blobly",
                 "stars": 0
@@ -4661,7 +4661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:11.794Z",
+    "last_updated": "2026-08-25T19:23:31.843Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
     "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
