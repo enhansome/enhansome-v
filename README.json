@@ -539,6 +539,21 @@
             },
             {
               "node_type": "item",
+              "title": "oscall",
+              "description": "A native, low-level CLI utility written in V for inspecting, loading, and dynamically executing arbitrary C/C++ functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1327228267,
+                "language": "V",
+                "last_commit": "2026-08-18T20:29:50Z",
+                "owner": "tailsmails",
+                "repo": "oscall",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
               "title": "PhoneSnatchProof",
               "description": "An FS that encrypts your app data and keeps them on RAM (with a backup).",
               "children": [],
@@ -639,21 +654,6 @@
                 "last_commit": "2026-08-13T21:32:15Z",
                 "owner": "tailsmails",
                 "repo": "musicc",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "oscall",
-              "description": "A native, low-level CLI utility written in V for inspecting, loading, and dynamically executing arbitrary C/C++ functions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1327228267,
-                "language": "V",
-                "last_commit": "2026-08-18T20:29:50Z",
-                "owner": "tailsmails",
-                "repo": "oscall",
                 "stars": 3
               }
             },
@@ -764,21 +764,6 @@
             },
             {
               "node_type": "item",
-              "title": "waterjail",
-              "description": "A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1309283764,
-                "language": "V",
-                "last_commit": "2026-08-25T14:11:25Z",
-                "owner": "tailsmails",
-                "repo": "waterjail",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
               "title": "anyside",
               "description": "Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.",
               "children": [],
@@ -821,6 +806,21 @@
                 "repo": "vsnap",
                 "stars": 0
               }
+            },
+            {
+              "node_type": "item",
+              "title": "waterjail",
+              "description": "A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1309283764,
+                "language": "V",
+                "last_commit": "2026-08-25T14:11:25Z",
+                "owner": "tailsmails",
+                "repo": "waterjail",
+                "stars": 0
+              }
             }
           ],
           "description": null,
@@ -838,7 +838,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T19:23:13Z",
+                "last_commit": "2026-08-26T21:28:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T19:23:13Z",
+                "last_commit": "2026-08-26T21:28:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -1144,7 +1144,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T19:23:13Z",
+                "last_commit": "2026-08-26T21:28:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -1539,7 +1539,7 @@
                 "archived": false,
                 "id": 1171174209,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T06:59:28Z",
+                "last_commit": "2026-08-26T17:40:30Z",
                 "owner": "hyperpolymath",
                 "repo": "boj-server",
                 "stars": 3
@@ -2299,7 +2299,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T19:23:13Z",
+                "last_commit": "2026-08-26T21:28:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -2762,7 +2762,7 @@
                 "archived": false,
                 "id": 1192529252,
                 "language": "V",
-                "last_commit": "2026-08-20T12:01:13Z",
+                "last_commit": "2026-08-26T09:47:31Z",
                 "owner": "guweigang",
                 "repo": "vjsx",
                 "stars": 3
@@ -2888,7 +2888,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T19:23:13Z",
+                "last_commit": "2026-08-26T21:28:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -3653,7 +3653,7 @@
                 "last_commit": "2026-06-06T01:45:28Z",
                 "owner": "tauraamui",
                 "repo": "bobatea",
-                "stars": 24
+                "stars": 25
               }
             }
           ],
@@ -3860,6 +3860,36 @@
             },
             {
               "node_type": "item",
+              "title": "v-hash",
+              "description": "A hash library for vlang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1338379037,
+                "language": "V",
+                "last_commit": "2026-08-21T14:59:45Z",
+                "owner": "deatil",
+                "repo": "v-hash",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "v-rsa",
+              "description": "A RSA library for vlang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1346017736,
+                "language": "V",
+                "last_commit": "2026-08-26T19:35:53Z",
+                "owner": "deatil",
+                "repo": "v-rsa",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
               "title": "vop",
               "description": "A message-passing object protocol providing dynamic property management and closure-based state encapsulation.",
               "children": [],
@@ -3889,7 +3919,7 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-25T19:23:13Z",
+                "last_commit": "2026-08-26T21:28:50Z",
                 "owner": "vlang",
                 "repo": "v",
                 "stars": 37803
@@ -4129,7 +4159,7 @@
                 "archived": false,
                 "id": 970792892,
                 "language": "V",
-                "last_commit": "2026-08-25T08:51:30Z",
+                "last_commit": "2026-08-26T06:40:05Z",
                 "owner": "einar-hjortdal",
                 "repo": "blobly",
                 "stars": 0
@@ -4362,7 +4392,7 @@
                     "last_commit": "2026-04-22T22:02:07Z",
                     "owner": "lv37",
                     "repo": "zed-v",
-                    "stars": 38
+                    "stars": 39
                   }
                 }
               ],
@@ -4386,7 +4416,7 @@
                 "archived": false,
                 "id": 459475779,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:02:28Z",
+                "last_commit": "2026-08-26T14:58:15Z",
                 "owner": "vlang",
                 "repo": "setup-v",
                 "stars": 33
@@ -4661,10 +4691,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:23:31.843Z",
+    "last_updated": "2026-08-26T21:28:54.166Z",
     "original_repository": "vlang/awesome-v",
     "original_repository_id": 195092243,
-    "original_repository_sha": "2ad8967fc38d71e06c30f082b3c0b3f9a6b07181",
+    "original_repository_sha": "e56d8ec46b2cea97deae88494fb7a9ccb6bb01f3",
     "enhanced_repository": "enhansome/enhansome-v",
     "enhanced_repository_description": null,
     "title": "Awesome V with stars"
