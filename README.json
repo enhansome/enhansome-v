@@ -838,10 +838,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-26T21:28:50Z",
+                "last_commit": "2026-08-27T11:52:26Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37802
               }
             },
             {
@@ -965,10 +965,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-26T21:28:50Z",
+                "last_commit": "2026-08-27T11:52:26Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37802
               }
             },
             {
@@ -1144,10 +1144,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-26T21:28:50Z",
+                "last_commit": "2026-08-27T11:52:26Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37802
               }
             },
             {
@@ -1539,7 +1539,7 @@
                 "archived": false,
                 "id": 1171174209,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T17:40:30Z",
+                "last_commit": "2026-08-27T03:55:15Z",
                 "owner": "hyperpolymath",
                 "repo": "boj-server",
                 "stars": 3
@@ -2299,10 +2299,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-26T21:28:50Z",
+                "last_commit": "2026-08-27T11:52:26Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37802
               }
             },
             {
@@ -2888,10 +2888,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-26T21:28:50Z",
+                "last_commit": "2026-08-27T11:52:26Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37802
               }
             },
             {
@@ -3882,7 +3882,7 @@
                 "archived": false,
                 "id": 1346017736,
                 "language": "V",
-                "last_commit": "2026-08-26T19:35:53Z",
+                "last_commit": "2026-08-27T06:28:28Z",
                 "owner": "deatil",
                 "repo": "v-rsa",
                 "stars": 0
@@ -3919,10 +3919,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-26T21:28:50Z",
+                "last_commit": "2026-08-27T11:52:26Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37803
+                "stars": 37802
               }
             },
             {
@@ -4129,7 +4129,7 @@
                 "archived": false,
                 "id": 1330069772,
                 "language": "V",
-                "last_commit": "2026-08-25T12:46:38Z",
+                "last_commit": "2026-08-27T06:32:39Z",
                 "owner": "deatil",
                 "repo": "v-jwt",
                 "stars": 2
@@ -4691,9 +4691,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:28:54.166Z",
-    "original_repository": "vlang/awesome-v",
-    "original_repository_id": 195092243,
+    "last_updated": "2026-08-27T12:08:20.523Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 195092243,
+      "language": null,
+      "last_commit": "2026-08-26T11:11:05Z",
+      "owner": "vlang",
+      "repo": "awesome-v",
+      "stars": 2105
+    },
     "original_repository_sha": "e56d8ec46b2cea97deae88494fb7a9ccb6bb01f3",
     "enhanced_repository": "enhansome/enhansome-v",
     "enhanced_repository_description": null,
