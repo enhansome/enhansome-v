@@ -419,36 +419,6 @@
             },
             {
               "node_type": "item",
-              "title": "dnshammer",
-              "description": "A covert communication channel that encodes data into DNS cache timing differences.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1174298225,
-                "language": "V",
-                "last_commit": "2026-08-20T18:52:27Z",
-                "owner": "tailsmails",
-                "repo": "dnshammer",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "stripshot",
-              "description": "Strips device/OS fingerprints from screenshots.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1157495240,
-                "language": "V",
-                "last_commit": "2026-08-12T10:29:19Z",
-                "owner": "tailsmails",
-                "repo": "stripshot",
-                "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
               "title": "v-terminal-apps",
               "description": "A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.",
               "children": [],
@@ -460,126 +430,6 @@
                 "owner": "cogrow4",
                 "repo": "V-Terminal-Apps",
                 "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "mushroomtek",
-              "description": "Don't worry about the grid, you are just a radius (Anti-IMSI catcher/Anti-Triangulation...).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1147534954,
-                "language": "V",
-                "last_commit": "2026-08-16T15:58:12Z",
-                "owner": "tailsmails",
-                "repo": "mushroomtek",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "netprint",
-              "description": "A low-level network telemetry and anomaly detection tool designed to identify environmental changes and traffic interception.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1260161658,
-                "language": "V",
-                "last_commit": "2026-08-16T10:19:04Z",
-                "owner": "tailsmails",
-                "repo": "netprint",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "envelop",
-              "description": "Generates background HTTP HEAD requests to obfuscate real web traffic.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1232980346,
-                "language": "V",
-                "last_commit": "2026-08-17T10:54:46Z",
-                "owner": "tailsmails",
-                "repo": "envelop",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lagger",
-              "description": "A dynamic network latency and packet loss simulation proxy designed to emulate real-world network degradation at the application layer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1273396742,
-                "language": "V",
-                "last_commit": "2026-08-10T09:30:38Z",
-                "owner": "tailsmails",
-                "repo": "lagger",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "newfolder",
-              "description": "A lightweight, high-performance command-line steganography, file obfuscation, and secure metadata-destruction workstation written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1280726005,
-                "language": "V",
-                "last_commit": "2026-08-02T13:59:21Z",
-                "owner": "tailsmails",
-                "repo": "newfolder",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "oscall",
-              "description": "A native, low-level CLI utility written in V for inspecting, loading, and dynamically executing arbitrary C/C++ functions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1327228267,
-                "language": "V",
-                "last_commit": "2026-08-18T20:29:50Z",
-                "owner": "tailsmails",
-                "repo": "oscall",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "PhoneSnatchProof",
-              "description": "An FS that encrypts your app data and keeps them on RAM (with a backup).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1166397453,
-                "language": "V",
-                "last_commit": "2026-08-22T06:43:32Z",
-                "owner": "tailsmails",
-                "repo": "PhoneSnatchProof",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "sockslender",
-              "description": "A lightweight, blazing-fast SOCKS5 proxy failover tool written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1194752638,
-                "language": "V",
-                "last_commit": "2026-08-16T10:55:30Z",
-                "owner": "tailsmails",
-                "repo": "sockslender",
-                "stars": 4
               }
             },
             {
@@ -599,36 +449,6 @@
             },
             {
               "node_type": "item",
-              "title": "amdim",
-              "description": "Make your screen dimmer than 0%.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1153473128,
-                "language": "V",
-                "last_commit": "2026-07-11T19:04:34Z",
-                "owner": "tailsmails",
-                "repo": "amdim",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "fastgit",
-              "description": "A command-line tool written in V, designed to automate and simplify uploading, syncing, and modifying GitHub repositories.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1271855788,
-                "language": "V",
-                "last_commit": "2026-08-17T10:38:30Z",
-                "owner": "tailsmails",
-                "repo": "fastgit",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
               "title": "httest",
               "description": "A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.",
               "children": [],
@@ -639,51 +459,6 @@
                 "last_commit": "2026-08-03T18:37:00Z",
                 "owner": "gechandesu",
                 "repo": "httest",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "musicc",
-              "description": "A lightweight, high-performance command-line music compiler.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1269108820,
-                "language": "V",
-                "last_commit": "2026-08-13T21:32:15Z",
-                "owner": "tailsmails",
-                "repo": "musicc",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "salty",
-              "description": "A lightweight command-line utility written in V for secure data encryption, deep compression, and steganographic-like format obfuscation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1259739760,
-                "language": "V",
-                "last_commit": "2026-08-12T16:32:57Z",
-                "owner": "tailsmails",
-                "repo": "salty",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "timingless",
-              "description": "A SOCKS5 proxy that sits between your applications and Tor, enforcing constant bandwidth to defeat traffic timing analysis.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1161624813,
-                "language": "V",
-                "last_commit": "2026-08-13T21:30:36Z",
-                "owner": "tailsmails",
-                "repo": "timingless",
                 "stars": 3
               }
             },
@@ -719,81 +494,6 @@
             },
             {
               "node_type": "item",
-              "title": "gatevay",
-              "description": "A lightweight, multi-gateway SOCKS5 proxy tool.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1296951419,
-                "language": "V",
-                "last_commit": "2026-08-14T00:10:04Z",
-                "owner": "tailsmails",
-                "repo": "gatevay",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "pixviper",
-              "description": "A parallel template matching and de-redaction investigation tool written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1296813834,
-                "language": "V",
-                "last_commit": "2026-08-12T16:04:08Z",
-                "owner": "tailsmails",
-                "repo": "pixviper",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "vtrace",
-              "description": "An automated execution tracer and step-by-step source code instrumenter for the V programming language.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1304763795,
-                "language": "V",
-                "last_commit": "2026-08-14T00:37:26Z",
-                "owner": "tailsmails",
-                "repo": "vtrace",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "anyside",
-              "description": "Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1287591272,
-                "language": "V",
-                "last_commit": "2026-07-11T19:04:47Z",
-                "owner": "tailsmails",
-                "repo": "anyside",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "vin32",
-              "description": "A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1303492509,
-                "language": "V",
-                "last_commit": "2026-08-10T09:35:41Z",
-                "owner": "tailsmails",
-                "repo": "vin32",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
               "title": "vsnap",
               "description": "A tiny local snapshot tool for saving and restoring files before risky edits, lighter than Git and built around explicit paths.",
               "children": [],
@@ -804,21 +504,6 @@
                 "last_commit": "2026-07-07T04:35:44Z",
                 "owner": "skandhas",
                 "repo": "vsnap",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "waterjail",
-              "description": "A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1309283764,
-                "language": "V",
-                "last_commit": "2026-08-25T14:11:25Z",
-                "owner": "tailsmails",
-                "repo": "waterjail",
                 "stars": 0
               }
             }
@@ -838,10 +523,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-27T11:52:26Z",
+                "last_commit": "2026-08-28T02:15:51Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37801
               }
             },
             {
@@ -965,10 +650,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-27T11:52:26Z",
+                "last_commit": "2026-08-28T02:15:51Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37801
               }
             },
             {
@@ -1144,10 +829,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-27T11:52:26Z",
+                "last_commit": "2026-08-28T02:15:51Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37801
               }
             },
             {
@@ -1539,7 +1224,7 @@
                 "archived": false,
                 "id": 1171174209,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T03:55:15Z",
+                "last_commit": "2026-08-28T00:05:08Z",
                 "owner": "hyperpolymath",
                 "repo": "boj-server",
                 "stars": 3
@@ -2299,10 +1984,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-27T11:52:26Z",
+                "last_commit": "2026-08-28T02:15:51Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37801
               }
             },
             {
@@ -2856,21 +2541,6 @@
                 "repo": "netio",
                 "stars": 4
               }
-            },
-            {
-              "node_type": "item",
-              "title": "netr",
-              "description": "A modular, zero-dependency raw socket and network packet crafting library written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1299433915,
-                "language": "V",
-                "last_commit": "2026-07-14T21:15:45Z",
-                "owner": "tailsmails",
-                "repo": "netr",
-                "stars": 3
-              }
             }
           ],
           "description": null,
@@ -2888,10 +2558,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-27T11:52:26Z",
+                "last_commit": "2026-08-28T02:15:51Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37801
               }
             },
             {
@@ -2937,36 +2607,6 @@
                 "owner": "Ddiidev",
                 "repo": "WindowsRegistry",
                 "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "rgc",
-              "description": "A lightweight, concurrent resource garbage collector for V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1301985520,
-                "language": "V",
-                "last_commit": "2026-07-17T21:05:34Z",
-                "owner": "tailsmails",
-                "repo": "rgc",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "vcomp",
-              "description": "A lightweight Linux Seccomp (Secure Computing Mode) BPF filter wrapper for vlang.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1300866154,
-                "language": "V",
-                "last_commit": "2026-07-25T18:51:42Z",
-                "owner": "tailsmails",
-                "repo": "vcomp",
-                "stars": 0
               }
             }
           ],
@@ -3135,25 +2775,10 @@
                 "archived": false,
                 "id": 885885203,
                 "language": "V",
-                "last_commit": "2026-08-18T01:18:51Z",
+                "last_commit": "2026-08-27T23:15:17Z",
                 "owner": "rodabt",
                 "repo": "vstats",
                 "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "vnm",
-              "description": "A minimalist, compiled neural network library written in the V programming language.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1282206332,
-                "language": "V",
-                "last_commit": "2026-08-10T01:02:54Z",
-                "owner": "tailsmails",
-                "repo": "vnm",
-                "stars": 2
               }
             }
           ],
@@ -3250,21 +2875,6 @@
                 "owner": "dariotarantini",
                 "repo": "vgram",
                 "stars": 150
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "velegram",
-              "description": "A V language wrapper for TDLib (Telegram Database Library).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1168357438,
-                "language": "V",
-                "last_commit": "2026-07-14T21:13:46Z",
-                "owner": "tailsmails",
-                "repo": "velegram",
-                "stars": 3
               }
             }
           ],
@@ -3845,21 +3455,6 @@
             },
             {
               "node_type": "item",
-              "title": "vanadium",
-              "description": "Ada-level runtime safety for the V programming language.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1298635022,
-                "language": "V",
-                "last_commit": "2026-07-26T19:09:56Z",
-                "owner": "tailsmails",
-                "repo": "vanadium",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
               "title": "v-hash",
               "description": "A hash library for vlang.",
               "children": [],
@@ -3887,21 +3482,6 @@
                 "repo": "v-rsa",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "vop",
-              "description": "A message-passing object protocol providing dynamic property management and closure-based state encapsulation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1302942393,
-                "language": "V",
-                "last_commit": "2026-07-16T15:32:55Z",
-                "owner": "tailsmails",
-                "repo": "vop",
-                "stars": 0
-              }
             }
           ],
           "description": null,
@@ -3919,10 +3499,10 @@
                 "archived": false,
                 "id": 169677297,
                 "language": "V",
-                "last_commit": "2026-08-27T11:52:26Z",
+                "last_commit": "2026-08-28T02:15:51Z",
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37802
+                "stars": 37801
               }
             },
             {
@@ -4691,7 +4271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:20.523Z",
+    "last_updated": "2026-08-28T02:23:15.893Z",
     "original_repository_info": {
       "archived": false,
       "id": 195092243,
