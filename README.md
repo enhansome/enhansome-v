@@ -128,7 +128,7 @@
 
 ### Editors
 
-* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,801 | 🐛 93 | 🌐 V | 📅 2026-08-28 - Small text editor from the official V examples.
+* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - Small text editor from the official V examples.
 * [ved](https://github.com/vlang/ved) ⭐ 1,475 | 🐛 34 | 🌐 V | 📅 2026-02-15 - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 * [lilly](https://github.com/tauraamui/lilly) ⭐ 464 | 🐛 10 | 🌐 V | 📅 2026-08-19 - TUI editor and VIM/Neovim alternative.
 * [vPDF](https://github.com/vlang/pdf) ⭐ 84 | 🐛 0 | 🌐 V | 📅 2023-12-19 - A module to simplify PDF file creation using the V programming language.
@@ -139,7 +139,7 @@
 
 ### Games
 
-* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,801 | 🐛 93 | 🌐 V | 📅 2026-08-28 - A simple flappy learning demo in v.
+* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - A simple flappy learning demo in v.
 * [Boundstone](https://github.com/organization/boundstone) ⭐ 62 | 🐛 3 | 🌐 V | 📅 2020-05-10 - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 * [Kurarin](https://github.com/FireRedz/kurarin) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2026-05-30 - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 * [minesweeper](https://github.com/ali-furkan/minesweeper-v) ⭐ 39 | 🐛 0 | 🌐 V | 📅 2026-01-30 - A simple Minesweeper game written in vlang.
@@ -156,7 +156,7 @@
 
 ### Interpreters/Compilers
 
-* [v](https://github.com/vlang/v) ⭐ 37,801 | 🐛 93 | 🌐 V | 📅 2026-08-28 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
+* [v](https://github.com/vlang/v) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 * [cotowali](https://github.com/cotowali/cotowali) ⚠️ Archived - A statically typed scripting language that transpiles into POSIX sh.
 * [vas](https://github.com/v420v/vas) ⭐ 111 | 🐛 24 | 🌐 V | 📅 2026-08-01 - A simple x86-64 assembler written in V.
 * [vcc](https://github.com/lemoncmd/vcc) ⭐ 110 | 🐛 0 | 🌐 V | 📅 2024-03-05 - A C compiler written in V.
@@ -256,7 +256,7 @@
 * [vmemcached](https://github.com/blacktrub/vmemcached) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2021-02-21 - Memcached client for V, written in V.
 * [vredis](https://github.com/xiusin/vredis) ⭐ 10 | 🐛 0 | 🌐 V | 📅 2026-06-26 - A simple, user-friendly, and comprehensive Redis client.
 * [redict](https://github.com/einar-hjortdal/redict) ⭐ 8 | 🐛 0 | 🌐 V | 📅 2026-08-03 - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
-* [firebird](https://github.com/einar-hjortdal/firebird) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2026-08-10 - Client for Firebird SQL.
+* [firebird](https://github.com/einar-hjortdal/firebird) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-08-10 - Client for Firebird SQL.
 
 ### Discord
 
@@ -268,7 +268,7 @@
 
 ### Eventing
 
-* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,801 | 🐛 93 | 🌐 V | 📅 2026-08-28 - A simple event bus system for V.
+* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - A simple event bus system for V.
 * [rxv](https://github.com/ulises-jeremias/rxv) ⭐ 16 | 🐛 31 | 🌐 V | 📅 2026-08-24 - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
 ### File handling
@@ -325,7 +325,7 @@
 
 ### Operating system
 
-* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,801 | 🐛 93 | 🌐 V | 📅 2026-08-28 - V module for interacting with the OS clipboard. Fully cross-platform.
+* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - V module for interacting with the OS clipboard. Fully cross-platform.
 * [vlipboard](https://github.com/asvvvad/vlipboard) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2020-07-25 - An easy to use wrapper of clipboard with Wayland and Termux support.
 * [mmap](https://github.com/jdonnerstag/vlang-mmap) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2021-06-21 - Provide native V-lang support for memory-mapping on Linux and Windows.
 * [winreg](https://github.com/ldedev/WindowsRegistry) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2024-01-31 - MS Windows Registry API. (WIP)
@@ -338,10 +338,10 @@
 * [vsl.fft](https://github.com/vlang/vsl/tree/main/fft#readme) ⭐ 401 | 🐛 35 | 🌐 V | 📅 2026-07-26 - Fast Fourier Transform module for VSL. Includes real and complex FFT with multiple backend options.
 * [vsl.ml](https://github.com/vlang/vsl/tree/main/ml#readme) ⭐ 401 | 🐛 35 | 🌐 V | 📅 2026-07-26 - Machine Learning module for VSL with K-means, KNN, linear/logistic regression, SVM, decision trees, random forest, and more.
 * [vsl.quaternion](https://github.com/vlang/vsl/tree/main/quaternion#readme) ⭐ 401 | 🐛 35 | 🌐 V | 📅 2026-07-26 - Quaternion math module for VSL. Supports 3D rotations, spherical linear interpolation (slerp), and Julia fractal generation.
-* [vtl](https://github.com/vlang/vtl) ⭐ 166 | 🐛 26 | 🌐 V | 📅 2026-07-16 - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
-* [vtl.autograd](https://github.com/vlang/vtl/tree/main/autograd#readme) ⭐ 166 | 🐛 26 | 🌐 V | 📅 2026-07-16 - Automatic differentiation module for VTL. Enables gradient computation for machine learning and optimization.
-* [vtl.datasets](https://github.com/vlang/vtl/tree/main/datasets#readme) ⭐ 166 | 🐛 26 | 🌐 V | 📅 2026-07-16 - Datasets module for VTL providing built-in datasets for ML benchmarking and tutorials.
-* [vtl.nn](https://github.com/vlang/vtl/tree/main/nn#readme) ⭐ 166 | 🐛 26 | 🌐 V | 📅 2026-07-16 - Neural Networks module for VTL. Build and train deep learning models with layers, activations, and optimizers.
+* [vtl](https://github.com/vlang/vtl) ⭐ 167 | 🐛 27 | 🌐 V | 📅 2026-07-16 - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
+* [vtl.autograd](https://github.com/vlang/vtl/tree/main/autograd#readme) ⭐ 167 | 🐛 27 | 🌐 V | 📅 2026-07-16 - Automatic differentiation module for VTL. Enables gradient computation for machine learning and optimization.
+* [vtl.datasets](https://github.com/vlang/vtl/tree/main/datasets#readme) ⭐ 167 | 🐛 27 | 🌐 V | 📅 2026-07-16 - Datasets module for VTL providing built-in datasets for ML benchmarking and tutorials.
+* [vtl.nn](https://github.com/vlang/vtl/tree/main/nn#readme) ⭐ 167 | 🐛 27 | 🌐 V | 📅 2026-07-16 - Neural Networks module for VTL. Build and train deep learning models with layers, activations, and optimizers.
 * [NeuralNetworks-V-Module](https://github.com/Eliyaan/NeuralNetworks-V-Module) ⭐ 30 | 🐛 0 | 🌐 V | 📅 2025-08-15 - This is a V module to create neural networks.
 * [vplot](https://github.com/erdetn/vplot) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2022-09-27 - V wrapper for GNU Plot (`gnuplot_i`).
 * [vstats](https://github.com/rodabt/vstats) ⭐ 5 | 🐛 1 | 🌐 V | 📅 2026-08-27 - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
@@ -376,7 +376,7 @@
 * [pcre2](https://github.com/srackham/pcre2) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2023-12-02 - Library for processing PCRE regular expressions.
 * [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2022-03-09 - A Rosie Pattern Language (RPL) implementation.
 * [vsoup](https://github.com/marcalc/vsoup) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-07-03 - A fast, JSoup-inspired HTML5 parser and DOM manipulation library for V, powered by Lexbor.
-* [lexical\_uuid](https://github.com/einar-hjortdal/lexical_uuid) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2026-01-29 - Lexicographically-sortable universally unique identifiers.
+* [lexical\_uuid](https://github.com/einar-hjortdal/lexical_uuid) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2026-01-29 - Lexicographically-sortable universally unique identifiers.
 * [slugify](https://github.com/einar-hjortdal/slugify) ⭐ 3 | 🐛 1 | 🌐 V | 📅 2025-12-17 - Transform Unicode strings to url-friendly human-readable ASCII slugs.
 * [read\_xlsx\_v](https://github.com/fanlia/read_xlsx_v) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2023-07-15 - Read xlsx using vlang.
 * [vxml](https://github.com/i582/vxml) ⭐ 1 | 🐛 0 | 📅 2022-12-08 - Pure V library for parsing XML to a DOM.
@@ -389,7 +389,7 @@
 * [mui](https://github.com/malisipi/mui) ⭐ 111 | 🐛 10 | 🌐 V | 📅 2024-08-18 - A Cross-Platform UI library for Windows, Linux, Android and Web.
 * [webview](https://github.com/ttytm/webview) ⭐ 82 | 🐛 5 | 🌐 V | 📅 2024-12-02 - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 * [vgtk3](https://github.com/vgtk/vgtk3) ⭐ 64 | 🐛 3 | 🌐 V | 📅 2022-11-07 - A wrapper for GTK3 in V.
-* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,893 | 🐛 1,238 | 🌐 C++ | 📅 2026-08-23 GUI toolkit.
+* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,917 | 🐛 1,239 | 🌐 C++ | 📅 2026-08-28 GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) ⭐ 54 | 🐛 0 | 🌐 V | 📅 2024-09-17 - Bindings for [Nuklear](https://github.com/vurtun/nuklear) ⚠️ Archived GUI toolkit.
 * [bobatea](https://github.com/tauraamui/bobatea) ⭐ 25 | 🐛 0 | 🌐 V | 📅 2026-06-06 - TUI framework inspired by Bubble Tea.
 
@@ -414,7 +414,7 @@
 
 ### Web
 
-* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,801 | 🐛 93 | 🌐 V | 📅 2026-08-28 - V's built-in web framework.
+* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - V's built-in web framework.
 * [vex](https://github.com/nedpals/vex) ⭐ 342 | 🐛 8 | 🌐 V | 📅 2024-02-03 - Web framework written on V inspired by Express and Sinatra.
 * [valval](https://github.com/taojy123/valval) ⭐ 156 | 🐛 3 | 🌐 V | 📅 2020-12-15 - Web framework written in V, improved by vweb.
 * [pico.v](https://github.com/S-YOU/pico.v) ⭐ 135 | 🐛 4 | 🌐 V | 📅 2020-09-05 - A web server in V based on picoev and picohttpparser.
@@ -483,7 +483,7 @@
 
 #### Zed
 
-* [zed-v](https://github.com/lv37/zed-v) ⭐ 39 | 🐛 5 | 🌐 Rust | 📅 2026-04-22 - Support for V syntax highlighting in Zed.
+* [zed-v](https://github.com/lv37/zed-v) ⭐ 40 | 🐛 5 | 🌐 Rust | 📅 2026-04-22 - Support for V syntax highlighting in Zed.
 
 ### Forums
 
@@ -551,4 +551,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
