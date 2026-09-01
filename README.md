@@ -98,7 +98,7 @@
 * [github-releases](https://github.com/Dracks/repo-download-asset) ⭐ 8 | 🐛 1 | 🌐 V | 📅 2023-05-06 - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 * [minimax-v](https://github.com/whiter001/minimax-v) ⭐ 8 | 🐛 0 | 🌐 V | 📅 2026-07-13 - Local AI Agent runtime implemented in the V language.
 * [verve](https://github.com/MohammadMD1383/verve) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2022-11-16 - Simple and fast static file server.
-* [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) ⭐ 6 | 🐛 1 | 🌐 V | 📅 2025-11-02 - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
+* [v-terminal-apps](https://github.com/cogrow4/V-Terminal-Apps) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2025-11-02 - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 * [zilch](https://github.com/mike-ward/zilch) ⭐ 4 | 🐛 0 | 🌐 V | 📅 2025-11-27 - An entertaining and amusing simulation of an installer.
 * [httest](https://github.com/gechandesu/httest) ⭐ 3 | 🐛 0 | 🌐 V | 📅 2026-08-03 - A CGI-enabled HTTP test server for mocking backends, inspecting requests and simulating latency and failures.
 * [vcli](https://github.com/changhz/vcli) ⭐ 3 | 🐛 0 | 🌐 V | 📅 2023-07-10 - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
@@ -128,7 +128,7 @@
 
 ### Editors
 
-* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,809 | 🐛 117 | 🌐 V | 📅 2026-08-31 - Small text editor from the official V examples.
+* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,814 | 🐛 113 | 🌐 V | 📅 2026-09-01 - Small text editor from the official V examples.
 * [ved](https://github.com/vlang/ved) ⭐ 1,474 | 🐛 34 | 🌐 V | 📅 2026-02-15 - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 * [lilly](https://github.com/tauraamui/lilly) ⭐ 464 | 🐛 10 | 🌐 V | 📅 2026-08-19 - TUI editor and VIM/Neovim alternative.
 * [vPDF](https://github.com/vlang/pdf) ⭐ 84 | 🐛 0 | 🌐 V | 📅 2023-12-19 - A module to simplify PDF file creation using the V programming language.
@@ -139,7 +139,7 @@
 
 ### Games
 
-* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,809 | 🐛 117 | 🌐 V | 📅 2026-08-31 - A simple flappy learning demo in v.
+* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,814 | 🐛 113 | 🌐 V | 📅 2026-09-01 - A simple flappy learning demo in v.
 * [Boundstone](https://github.com/organization/boundstone) ⭐ 62 | 🐛 3 | 🌐 V | 📅 2020-05-10 - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 * [Kurarin](https://github.com/FireRedz/kurarin) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2026-05-30 - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 * [minesweeper](https://github.com/ali-furkan/minesweeper-v) ⭐ 39 | 🐛 0 | 🌐 V | 📅 2026-01-30 - A simple Minesweeper game written in vlang.
@@ -156,7 +156,7 @@
 
 ### Interpreters/Compilers
 
-* [v](https://github.com/vlang/v) ⭐ 37,809 | 🐛 117 | 🌐 V | 📅 2026-08-31 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
+* [v](https://github.com/vlang/v) ⭐ 37,814 | 🐛 113 | 🌐 V | 📅 2026-09-01 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 * [cotowali](https://github.com/cotowali/cotowali) ⚠️ Archived - A statically typed scripting language that transpiles into POSIX sh.
 * [vas](https://github.com/v420v/vas) ⭐ 111 | 🐛 24 | 🌐 V | 📅 2026-08-01 - A simple x86-64 assembler written in V.
 * [vcc](https://github.com/lemoncmd/vcc) ⭐ 110 | 🐛 0 | 🌐 V | 📅 2024-03-05 - A C compiler written in V.
@@ -174,7 +174,7 @@
 
 ### Package managers
 
-* [vpm](https://github.com/vlang/vpm) ⭐ 134 | 🐛 32 | 🌐 V | 📅 2026-08-31 - The V language package management tool written in V.
+* [vpm](https://github.com/vlang/vpm) ⭐ 134 | 🐛 34 | 🌐 V | 📅 2026-08-31 - The V language package management tool written in V.
 
 ### Project management
 
@@ -268,7 +268,7 @@
 
 ### Eventing
 
-* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,809 | 🐛 117 | 🌐 V | 📅 2026-08-31 - A simple event bus system for V.
+* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,814 | 🐛 113 | 🌐 V | 📅 2026-09-01 - A simple event bus system for V.
 * [rxv](https://github.com/ulises-jeremias/rxv) ⭐ 16 | 🐛 31 | 🌐 V | 📅 2026-08-24 - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
 ### File handling
@@ -325,7 +325,7 @@
 
 ### Operating system
 
-* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,809 | 🐛 117 | 🌐 V | 📅 2026-08-31 - V module for interacting with the OS clipboard. Fully cross-platform.
+* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,814 | 🐛 113 | 🌐 V | 📅 2026-09-01 - V module for interacting with the OS clipboard. Fully cross-platform.
 * [vlipboard](https://github.com/asvvvad/vlipboard) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2020-07-25 - An easy to use wrapper of clipboard with Wayland and Termux support.
 * [mmap](https://github.com/jdonnerstag/vlang-mmap) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2021-06-21 - Provide native V-lang support for memory-mapping on Linux and Windows.
 * [winreg](https://github.com/ldedev/WindowsRegistry) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2024-01-31 - MS Windows Registry API. (WIP)
@@ -389,7 +389,7 @@
 * [mui](https://github.com/malisipi/mui) ⭐ 111 | 🐛 10 | 🌐 V | 📅 2024-08-18 - A Cross-Platform UI library for Windows, Linux, Android and Web.
 * [webview](https://github.com/ttytm/webview) ⭐ 82 | 🐛 5 | 🌐 V | 📅 2024-12-02 - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 * [vgtk3](https://github.com/vgtk/vgtk3) ⭐ 64 | 🐛 3 | 🌐 V | 📅 2022-11-07 - A wrapper for GTK3 in V.
-* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,979 | 🐛 1,233 | 🌐 C++ | 📅 2026-08-31 GUI toolkit.
+* [vig](https://github.com/nsauzede/vig) ⭐ 54 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,006 | 🐛 1,230 | 🌐 C++ | 📅 2026-09-01 GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) ⭐ 54 | 🐛 0 | 🌐 V | 📅 2024-09-17 - Bindings for [Nuklear](https://github.com/vurtun/nuklear) ⚠️ Archived GUI toolkit.
 * [bobatea](https://github.com/tauraamui/bobatea) ⭐ 25 | 🐛 0 | 🌐 V | 📅 2026-06-06 - TUI framework inspired by Bubble Tea.
 
@@ -414,7 +414,7 @@
 
 ### Web
 
-* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,809 | 🐛 117 | 🌐 V | 📅 2026-08-31 - V's built-in web framework.
+* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,814 | 🐛 113 | 🌐 V | 📅 2026-09-01 - V's built-in web framework.
 * [vex](https://github.com/nedpals/vex) ⭐ 342 | 🐛 8 | 🌐 V | 📅 2024-02-03 - Web framework written on V inspired by Express and Sinatra.
 * [valval](https://github.com/taojy123/valval) ⭐ 156 | 🐛 3 | 🌐 V | 📅 2020-12-15 - Web framework written in V, improved by vweb.
 * [pico.v](https://github.com/S-YOU/pico.v) ⭐ 135 | 🐛 4 | 🌐 V | 📅 2020-09-05 - A web server in V based on picoev and picohttpparser.
@@ -473,7 +473,7 @@
 #### VS Code
 
 * [vscode-vlang](https://github.com/vlang/vscode-vlang) ⭐ 408 | 🐛 38 | 🌐 TypeScript | 📅 2026-07-26 - V Language extension for Visual Studio Code.
-* [v-analyzer](https://github.com/vlang/v-analyzer) ⭐ 205 | 🐛 15 | 🌐 V | 📅 2026-06-20 - Bring IDE features for the V programming language to VS Code.
+* [v-analyzer](https://github.com/vlang/v-analyzer) ⭐ 206 | 🐛 15 | 🌐 V | 📅 2026-06-20 - Bring IDE features for the V programming language to VS Code.
 
 #### Vim
 
@@ -551,4 +551,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
