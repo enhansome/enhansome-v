@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "vlang",
                 "repo": "vab",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "aab",
                   "android",
@@ -749,7 +749,7 @@
                 "id": 1274918184,
                 "language": "V",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T19:50:37Z",
+                "last_commit": "2026-09-05T18:55:45Z",
                 "open_issues": 0,
                 "owner": "gechandesu",
                 "repo": "httest",
@@ -847,11 +847,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:41Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T20:49:40Z",
+                "open_issues": 99,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37817,
+                "stars": 37818,
                 "topics": [
                   "compiler",
                   "language",
@@ -877,7 +877,7 @@
                 "open_issues": 34,
                 "owner": "vlang",
                 "repo": "ved",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": [
                   "text-editor",
                   "v"
@@ -1056,11 +1056,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:41Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T20:49:40Z",
+                "open_issues": 99,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37817,
+                "stars": 37818,
                 "topics": [
                   "compiler",
                   "language",
@@ -1368,11 +1368,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:41Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T20:49:40Z",
+                "open_issues": 99,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37817,
+                "stars": 37818,
                 "topics": [
                   "compiler",
                   "language",
@@ -1670,7 +1670,7 @@
                 "open_issues": 24,
                 "owner": "vlang",
                 "repo": "vinix",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": [
                   "hacktoberfest",
                   "operating-system",
@@ -1725,7 +1725,7 @@
                 "open_issues": 34,
                 "owner": "vlang",
                 "repo": "vpm",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -2126,7 +2126,7 @@
                 "open_issues": 32,
                 "owner": "vlang",
                 "repo": "gitly",
-                "stars": 1478,
+                "stars": 1479,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -3280,11 +3280,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:41Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T20:49:40Z",
+                "open_issues": 99,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37817,
+                "stars": 37818,
                 "topics": [
                   "compiler",
                   "language",
@@ -4225,11 +4225,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:41Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T20:49:40Z",
+                "open_issues": 99,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37817,
+                "stars": 37818,
                 "topics": [
                   "compiler",
                   "language",
@@ -5224,7 +5224,7 @@
                 "open_issues": 116,
                 "owner": "vlang",
                 "repo": "ui",
-                "stars": 2515,
+                "stars": 2517,
                 "topics": [
                   "gui",
                   "ui",
@@ -5423,7 +5423,7 @@
                 "open_issues": 5,
                 "owner": "nsauzede",
                 "repo": "vig",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -5885,11 +5885,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:41Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-05T20:49:40Z",
+                "open_issues": 99,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37817,
+                "stars": 37818,
                 "topics": [
                   "compiler",
                   "language",
@@ -6532,7 +6532,7 @@
                     "open_issues": 15,
                     "owner": "vlang",
                     "repo": "v-analyzer",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": [
                       "bindings",
                       "language-server",
@@ -6685,8 +6685,8 @@
                 "id": 459475779,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T04:45:47Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-05T04:24:30Z",
+                "open_issues": 4,
                 "owner": "vlang",
                 "repo": "setup-v",
                 "stars": 33,
@@ -7106,7 +7106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:09:31.823Z",
+    "last_updated": "2026-09-05T20:49:47.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome V frameworks, libraries, software and resources.",
@@ -7118,7 +7118,7 @@
       "open_issues": 4,
       "owner": "vlang",
       "repo": "awesome-v",
-      "stars": 2103,
+      "stars": 2104,
       "topics": [
         "awesome",
         "awesome-list",
