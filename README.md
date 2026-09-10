@@ -67,14 +67,14 @@
 
 ### Build Systems
 
-* [vab](https://github.com/vlang/vab) ⭐ 347 | 🐛 8 | 🌐 V | 📅 2026-04-30 - The official V tool to build and package applications for Android.
+* [vab](https://github.com/vlang/vab) ⭐ 347 | 🐛 8 | 🌐 V | 📅 2026-09-10 - The official V tool to build and package applications for Android.
 * [clockwork](https://github.com/emmathemartian/clockwork) ⭐ 26 | 🐛 0 | 🌐 V | 📅 2025-09-19 - A language-agnostic build tool wrote in V.
 * [vab-sdl](https://github.com/larpon/vab-sdl) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2026-01-04 - Standalone and extra command for `vab` to build and package
   SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
-* [lsv](https://github.com/mike-ward/lsv) ⭐ 73 | 🐛 2 | 🌐 V | 📅 2026-02-25 - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
+* [lsv](https://github.com/mike-ward/lsv) ⭐ 74 | 🐛 2 | 🌐 V | 📅 2026-02-25 - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 * [crepl](https://github.com/l1mey112/crepl) ⭐ 35 | 🐛 0 | 🌐 V | 📅 2024-02-05 - Compile and execute C code on the fly as you type it.
 * [pfjson](https://github.com/fleximus/pfjson) ⭐ 31 | 🐛 0 | 🌐 V | 📅 2026-06-13 - A CLI tool to convert OpenBSD Packet Filter configuration files (`pf.conf`) to JSON and vice versa.
 * [vqrcode](https://github.com/carlosqsilva/vqrcode) ⭐ 30 | 🐛 0 | 🌐 V | 📅 2025-10-01 - CLI for creating QR Codes.
@@ -128,9 +128,9 @@
 
 ### Editors
 
-* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,829 | 🐛 55 | 🌐 V | 📅 2026-09-09 - Small text editor from the official V examples.
-* [ved](https://github.com/vlang/ved) ⭐ 1,477 | 🐛 34 | 🌐 V | 📅 2026-02-15 - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
-* [lilly](https://github.com/tauraamui/lilly) ⭐ 464 | 🐛 10 | 🌐 V | 📅 2026-09-07 - TUI editor and VIM/Neovim alternative.
+* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 37,839 | 🐛 59 | 🌐 V | 📅 2026-09-10 - Small text editor from the official V examples.
+* [ved](https://github.com/vlang/ved) ⭐ 1,478 | 🐛 34 | 🌐 V | 📅 2026-02-15 - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+* [lilly](https://github.com/tauraamui/lilly) ⭐ 465 | 🐛 10 | 🌐 V | 📅 2026-09-07 - TUI editor and VIM/Neovim alternative.
 * [vPDF](https://github.com/vlang/pdf) ⭐ 85 | 🐛 0 | 🌐 V | 📅 2023-12-19 - A module to simplify PDF file creation using the V programming language.
 * [vee](https://github.com/Larpon/vee) ⭐ 58 | 🐛 1 | 🌐 V | 📅 2025-05-24 - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/) ⭐ 58 | 🐛 1 | 🌐 V | 📅 2025-05-24.
 * [volt](https://github.com/Volt-Editor-Team/volt) ⭐ 20 | 🐛 5 | 🌐 V | 📅 2026-07-06 - Aims to be a fully featured text editor written entirely in Vlang.
@@ -139,7 +139,7 @@
 
 ### Games
 
-* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,829 | 🐛 55 | 🌐 V | 📅 2026-09-09 - A simple flappy learning demo in v.
+* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 37,839 | 🐛 59 | 🌐 V | 📅 2026-09-10 - A simple flappy learning demo in v.
 * [Boundstone](https://github.com/organization/boundstone) ⭐ 62 | 🐛 3 | 🌐 V | 📅 2020-05-10 - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 * [Kurarin](https://github.com/FireRedz/kurarin) ⭐ 54 | 🐛 1 | 🌐 C | 📅 2026-05-30 - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 * [minesweeper](https://github.com/ali-furkan/minesweeper-v) ⭐ 39 | 🐛 0 | 🌐 V | 📅 2026-01-30 - A simple Minesweeper game written in vlang.
@@ -156,7 +156,7 @@
 
 ### Interpreters/Compilers
 
-* [v](https://github.com/vlang/v) ⭐ 37,829 | 🐛 55 | 🌐 V | 📅 2026-09-09 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
+* [v](https://github.com/vlang/v) ⭐ 37,839 | 🐛 59 | 🌐 V | 📅 2026-09-10 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 * [cotowali](https://github.com/cotowali/cotowali) ⚠️ Archived - A statically typed scripting language that transpiles into POSIX sh.
 * [vas](https://github.com/v420v/vas) ⭐ 111 | 🐛 24 | 🌐 V | 📅 2026-08-01 - A simple x86-64 assembler written in V.
 * [vcc](https://github.com/lemoncmd/vcc) ⭐ 110 | 🐛 0 | 🌐 V | 📅 2024-03-05 - A C compiler written in V.
@@ -169,7 +169,7 @@
 
 ### Operating systems/Kernels
 
-* [Vinix](https://github.com/vlang/vinix) ⭐ 2,201 | 🐛 25 | 🌐 V | 📅 2026-09-09 - Small and simple OS in V. Runs bash.
+* [Vinix](https://github.com/vlang/vinix) ⭐ 2,217 | 🐛 29 | 🌐 V | 📅 2026-09-10 - Small and simple OS in V. Runs bash.
 * [V-Unikernel](https://github.com/vlang/unikernel) ⭐ 22 | 🐛 1 | 🌐 V | 📅 2024-10-20 - A unikernel is a computer program statically linked with the operating system code on which it depends.
 
 ### Package managers
@@ -269,7 +269,7 @@
 
 ### Eventing
 
-* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,829 | 🐛 55 | 🌐 V | 📅 2026-09-09 - A simple event bus system for V.
+* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 37,839 | 🐛 59 | 🌐 V | 📅 2026-09-10 - A simple event bus system for V.
 * [rxv](https://github.com/ulises-jeremias/rxv) ⭐ 16 | 🐛 31 | 🌐 V | 📅 2026-09-03 - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
 ### File handling
@@ -293,7 +293,7 @@
 
 * [vsl.vcl](https://github.com/vlang/vsl/tree/main/vcl#readme) ⭐ 401 | 🐛 35 | 🌐 V | 📅 2026-07-26 - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 * [vsl.plot](https://github.com/vlang/vsl/tree/main/plot#readme) ⭐ 401 | 🐛 35 | 🌐 V | 📅 2026-07-26 - Plotting module for VSL with 85+ examples. Create line charts, scatter plots, 3D surfaces, bar charts, box plots, histograms, heatmaps, and more.
-* [sdl](https://github.com/vlang/sdl) ⭐ 107 | 🐛 7 | 🌐 V | 📅 2026-02-02 - Official SDL2 & SDL3 bindings for V.
+* [sdl](https://github.com/vlang/sdl) ⭐ 106 | 🐛 7 | 🌐 V | 📅 2026-02-02 - Official SDL2 & SDL3 bindings for V.
 * [vsdl2](https://github.com/nsauzede/vsdl2) ⭐ 48 | 🐛 3 | 🌐 V | 📅 2026-05-23 - A libSDL2 wrapper.
 * [viup](https://github.com/kjlaw89/viup) ⚠️ Archived - V wrapper for the C-based cross-platform UI library, IUP.
 * [vglyph](https://github.com/vlang/vglyph) ⭐ 28 | 🐛 0 | 🌐 V | 📅 2026-07-07 - High-performance text rendering engine for the V programming language, built on Pango, FreeType, and Sokol.
@@ -310,7 +310,7 @@
 
 * [jni](https://github.com/larpon/jni) ⭐ 29 | 🐛 1 | 🌐 V | 📅 2025-04-09 - V wrapper around the C Java Native Interface (Desktop + Android).
 * [vphp](https://github.com/guweigang/vphp) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-07-25 - Vlang library for building PHP extensions natively in Vlang.
-* [vjsx](https://github.com/guweigang/vjsx) ⭐ 3 | 🐛 0 | 🌐 V | 📅 2026-08-29 - V bindings to quickjs javascript engine. Run JS in V.
+* [vjsx](https://github.com/guweigang/vjsx) ⭐ 3 | 🐛 0 | 🌐 V | 📅 2026-09-10 - V bindings to quickjs javascript engine. Run JS in V.
 
 ### IRC
 
@@ -326,7 +326,7 @@
 
 ### Operating system
 
-* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,829 | 🐛 55 | 🌐 V | 📅 2026-09-09 - V module for interacting with the OS clipboard. Fully cross-platform.
+* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 37,839 | 🐛 59 | 🌐 V | 📅 2026-09-10 - V module for interacting with the OS clipboard. Fully cross-platform.
 * [vlipboard](https://github.com/asvvvad/vlipboard) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2020-07-25 - An easy to use wrapper of clipboard with Wayland and Termux support.
 * [mmap](https://github.com/jdonnerstag/vlang-mmap) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2021-06-21 - Provide native V-lang support for memory-mapping on Linux and Windows.
 * [winreg](https://github.com/ldedev/WindowsRegistry) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2024-01-31 - MS Windows Registry API. (WIP)
@@ -390,7 +390,7 @@
 * [mui](https://github.com/malisipi/mui) ⭐ 111 | 🐛 10 | 🌐 V | 📅 2024-08-18 - A Cross-Platform UI library for Windows, Linux, Android and Web.
 * [webview](https://github.com/ttytm/webview) ⭐ 82 | 🐛 5 | 🌐 V | 📅 2024-12-02 - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 * [vgtk3](https://github.com/vgtk/vgtk3) ⭐ 64 | 🐛 3 | 🌐 V | 📅 2022-11-07 - A wrapper for GTK3 in V.
-* [vig](https://github.com/nsauzede/vig) ⭐ 55 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,132 | 🐛 1,226 | 🌐 C++ | 📅 2026-09-09 GUI toolkit.
+* [vig](https://github.com/nsauzede/vig) ⭐ 55 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,149 | 🐛 1,228 | 🌐 C++ | 📅 2026-09-10 GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) ⭐ 54 | 🐛 0 | 🌐 V | 📅 2024-09-17 - Bindings for [Nuklear](https://github.com/vurtun/nuklear) ⚠️ Archived GUI toolkit.
 * [bobatea](https://github.com/tauraamui/bobatea) ⭐ 25 | 🐛 0 | 🌐 V | 📅 2026-06-06 - TUI framework inspired by Bubble Tea.
 
@@ -415,7 +415,7 @@
 
 ### Web
 
-* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,829 | 🐛 55 | 🌐 V | 📅 2026-09-09 - V's built-in web framework.
+* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 37,839 | 🐛 59 | 🌐 V | 📅 2026-09-10 - V's built-in web framework.
 * [vex](https://github.com/nedpals/vex) ⭐ 342 | 🐛 8 | 🌐 V | 📅 2024-02-03 - Web framework written on V inspired by Express and Sinatra.
 * [valval](https://github.com/taojy123/valval) ⭐ 156 | 🐛 3 | 🌐 V | 📅 2020-12-15 - Web framework written in V, improved by vweb.
 * [pico.v](https://github.com/S-YOU/pico.v) ⭐ 135 | 🐛 4 | 🌐 V | 📅 2020-09-05 - A web server in V based on picoev and picohttpparser.
@@ -493,7 +493,7 @@
 
 ### GitHub Actions
 
-* [setup-v](https://github.com/vlang/setup-v) ⭐ 33 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-09 - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
+* [setup-v](https://github.com/vlang/setup-v) ⭐ 33 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-10 - GitHub Action to install and use V in your workflow. Available on the [marketplace](https://github.com/marketplace/actions/setup-vlang).
 * [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 
 ### GitHub templates
@@ -552,4 +552,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
