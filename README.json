@@ -180,7 +180,7 @@
                 "open_issues": 0,
                 "owner": "carlosqsilva",
                 "repo": "vqrcode",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "qr-code",
                   "qr-generator",
@@ -353,7 +353,7 @@
                 "language": "V",
                 "license": null,
                 "last_commit": "2026-04-21T14:02:53Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "carlosqsilva",
                 "repo": "vfetch",
                 "stars": 17,
@@ -847,11 +847,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:03:59Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T22:12:20Z",
+                "open_issues": 92,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37857,
+                "stars": 37866,
                 "topics": [
                   "compiler",
                   "language",
@@ -877,7 +877,7 @@
                 "open_issues": 34,
                 "owner": "vlang",
                 "repo": "ved",
-                "stars": 1479,
+                "stars": 1480,
                 "topics": [
                   "text-editor",
                   "v"
@@ -969,7 +969,7 @@
                 "language": "V",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-06T01:08:00Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "Volt-Editor-Team",
                 "repo": "volt",
                 "stars": 20,
@@ -1056,11 +1056,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:03:59Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T22:12:20Z",
+                "open_issues": 92,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37857,
+                "stars": 37866,
                 "topics": [
                   "compiler",
                   "language",
@@ -1368,11 +1368,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:03:59Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T22:12:20Z",
+                "open_issues": 92,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37857,
+                "stars": 37866,
                 "topics": [
                   "compiler",
                   "language",
@@ -1473,7 +1473,7 @@
                 "id": 729683629,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T04:00:53Z",
+                "last_commit": "2026-09-14T04:24:59Z",
                 "open_issues": 0,
                 "owner": "fermarsan",
                 "repo": "aixt",
@@ -1670,7 +1670,7 @@
                 "open_issues": 31,
                 "owner": "vlang",
                 "repo": "vinix",
-                "stars": 2246,
+                "stars": 2260,
                 "topics": [
                   "hacktoberfest",
                   "operating-system",
@@ -2422,7 +2422,7 @@
                 "open_issues": 0,
                 "owner": "davlgd",
                 "repo": "gitval",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -3301,11 +3301,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:03:59Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T22:12:20Z",
+                "open_issues": 92,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37857,
+                "stars": 37866,
                 "topics": [
                   "compiler",
                   "language",
@@ -4246,11 +4246,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:03:59Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T22:12:20Z",
+                "open_issues": 92,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37857,
+                "stars": 37866,
                 "topics": [
                   "compiler",
                   "language",
@@ -5462,7 +5462,7 @@
                 "language": "V",
                 "license": "MIT",
                 "last_commit": "2024-09-17T14:29:39Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "nsauzede",
                 "repo": "vnk",
                 "stars": 54,
@@ -5833,6 +5833,33 @@
             },
             {
               "node_type": "item",
+              "title": "v-rsa",
+              "description": "A RSA library for vlang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An RSA library for vlang.",
+                "homepage": "https://vpm.vlang.io/packages/deatil.vrsa",
+                "id": 1346017736,
+                "language": "V",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T03:49:03Z",
+                "open_issues": 0,
+                "owner": "deatil",
+                "repo": "v-rsa",
+                "stars": 1,
+                "topics": [
+                  "rsa",
+                  "v-rsa",
+                  "vlang",
+                  "vlang-library",
+                  "vlang-rsa"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "v-hash",
               "description": "A hash library for vlang.",
               "children": [],
@@ -5859,33 +5886,6 @@
                 ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "v-rsa",
-              "description": "A RSA library for vlang.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An RSA library for vlang.",
-                "homepage": "https://vpm.vlang.io/packages/deatil.vrsa",
-                "id": 1346017736,
-                "language": "V",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-13T17:51:19Z",
-                "open_issues": 0,
-                "owner": "deatil",
-                "repo": "v-rsa",
-                "stars": 0,
-                "topics": [
-                  "rsa",
-                  "v-rsa",
-                  "vlang",
-                  "vlang-library",
-                  "vlang-rsa"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
             }
           ],
           "description": null,
@@ -5906,11 +5906,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-13T21:03:59Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-14T22:12:20Z",
+                "open_issues": 92,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37857,
+                "stars": 37866,
                 "topics": [
                   "compiler",
                   "language",
@@ -7127,7 +7127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:12:21.731Z",
+    "last_updated": "2026-09-14T22:12:21.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome V frameworks, libraries, software and resources.",
@@ -7139,7 +7139,7 @@
       "open_issues": 4,
       "owner": "vlang",
       "repo": "awesome-v",
-      "stars": 2105,
+      "stars": 2106,
       "topics": [
         "awesome",
         "awesome-list",
