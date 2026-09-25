@@ -847,11 +847,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:23:38Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-25T20:17:30Z",
+                "open_issues": 160,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37912,
+                "stars": 37911,
                 "topics": [
                   "compiler",
                   "language",
@@ -1056,11 +1056,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:23:38Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-25T20:17:30Z",
+                "open_issues": 160,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37912,
+                "stars": 37911,
                 "topics": [
                   "compiler",
                   "language",
@@ -1368,11 +1368,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:23:38Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-25T20:17:30Z",
+                "open_issues": 160,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37912,
+                "stars": 37911,
                 "topics": [
                   "compiler",
                   "language",
@@ -1667,7 +1667,7 @@
                 "language": "V",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-24T19:45:00Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "vlang",
                 "repo": "vinix",
                 "stars": 2334,
@@ -3091,6 +3091,31 @@
             },
             {
               "node_type": "item",
+              "title": "redict",
+              "description": "Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Redict library for the V language. Compatible with Redis <=7.2.4 https://redict.io/docs/redis-compat/",
+                "homepage": null,
+                "id": 860369861,
+                "language": "V",
+                "license": "NCSA",
+                "last_commit": "2026-08-03T16:05:48Z",
+                "open_issues": 0,
+                "owner": "einar-hjortdal",
+                "repo": "redict",
+                "stars": 10,
+                "topics": [
+                  "database",
+                  "redict",
+                  "redis"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "vredis",
               "description": "A simple, user-friendly, and comprehensive Redis client.",
               "children": [],
@@ -3133,31 +3158,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-08T21:31:06.808Z"
-            },
-            {
-              "node_type": "item",
-              "title": "redict",
-              "description": "Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Redict library for the V language. Compatible with Redis <=7.2.4 https://redict.io/docs/redis-compat/",
-                "homepage": null,
-                "id": 860369861,
-                "language": "V",
-                "license": "NCSA",
-                "last_commit": "2026-08-03T16:05:48Z",
-                "open_issues": 0,
-                "owner": "einar-hjortdal",
-                "repo": "redict",
-                "stars": 9,
-                "topics": [
-                  "database",
-                  "redict",
-                  "redis"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
             },
             {
               "node_type": "item",
@@ -3337,11 +3337,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:23:38Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-25T20:17:30Z",
+                "open_issues": 160,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37912,
+                "stars": 37911,
                 "topics": [
                   "compiler",
                   "language",
@@ -4329,11 +4329,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:23:38Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-25T20:17:30Z",
+                "open_issues": 160,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37912,
+                "stars": 37911,
                 "topics": [
                   "compiler",
                   "language",
@@ -5463,7 +5463,7 @@
                 "language": "V",
                 "license": "MIT",
                 "last_commit": "2024-12-02T16:33:30Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ttytm",
                 "repo": "webview",
                 "stars": 83,
@@ -5989,11 +5989,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-09-24T18:23:38Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-25T20:17:30Z",
+                "open_issues": 160,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 37912,
+                "stars": 37911,
                 "topics": [
                   "compiler",
                   "language",
@@ -6169,7 +6169,7 @@
                 "open_issues": 0,
                 "owner": "einar-hjortdal",
                 "repo": "sessions",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "cookie",
                   "sessions"
@@ -6603,8 +6603,8 @@
                     "id": 190075470,
                     "language": "TypeScript",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-23T12:49:14Z",
-                    "open_issues": 40,
+                    "last_commit": "2026-09-24T23:23:46Z",
+                    "open_issues": 39,
                     "owner": "vlang",
                     "repo": "vscode-vlang",
                     "stars": 408,
@@ -7210,7 +7210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:54:21.850Z",
+    "last_updated": "2026-09-25T21:54:16.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome V frameworks, libraries, software and resources.",
