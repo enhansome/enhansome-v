@@ -788,6 +788,27 @@
             },
             {
               "node_type": "item",
+              "title": "dupfind",
+              "description": "Find duplicate files by content. Pure V, zero dependencies, with JSON output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Find duplicate files by content. Pure V, zero dependencies.",
+                "homepage": null,
+                "id": 1421113078,
+                "language": "V",
+                "license": null,
+                "last_commit": "2026-10-15T18:04:45Z",
+                "open_issues": 0,
+                "owner": "gabytz777",
+                "repo": "dupfind",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T21:09:30.321Z"
+            },
+            {
+              "node_type": "item",
               "title": "vspect",
               "description": "A tool to inspect vlang source file. ( Archived )",
               "children": [],
@@ -847,11 +868,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:48:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-17T19:14:21Z",
+                "open_issues": 148,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38012,
+                "stars": 38015,
                 "topics": [
                   "compiler",
                   "language",
@@ -877,7 +898,7 @@
                 "open_issues": 41,
                 "owner": "vlang",
                 "repo": "ved",
-                "stars": 1486,
+                "stars": 1485,
                 "topics": [
                   "text-editor",
                   "v"
@@ -1056,11 +1077,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:48:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-17T19:14:21Z",
+                "open_issues": 148,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38012,
+                "stars": 38015,
                 "topics": [
                   "compiler",
                   "language",
@@ -1279,7 +1300,7 @@
                 "open_issues": 0,
                 "owner": "Egevtech",
                 "repo": "dino",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "dinosaur-game",
                   "terminal-game",
@@ -1389,11 +1410,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:48:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-17T19:14:21Z",
+                "open_issues": 148,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38012,
+                "stars": 38015,
                 "topics": [
                   "compiler",
                   "language",
@@ -1687,11 +1708,11 @@
                 "id": 221905326,
                 "language": "V",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-16T15:58:56Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-17T18:12:59Z",
+                "open_issues": 32,
                 "owner": "vlang",
                 "repo": "vinix",
-                "stars": 2636,
+                "stars": 2647,
                 "topics": [
                   "hacktoberfest",
                   "operating-system",
@@ -2185,7 +2206,7 @@
                 "open_issues": 39,
                 "owner": "vlang",
                 "repo": "gitly",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -3173,8 +3194,8 @@
                 "id": 1297407926,
                 "language": "V",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-10T13:59:23Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-17T20:01:41Z",
+                "open_issues": 1,
                 "owner": "vlang",
                 "repo": "leveldb",
                 "stars": 9,
@@ -3360,11 +3381,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:48:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-17T19:14:21Z",
+                "open_issues": 148,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38012,
+                "stars": 38015,
                 "topics": [
                   "compiler",
                   "language",
@@ -4352,11 +4373,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:48:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-17T19:14:21Z",
+                "open_issues": 148,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38012,
+                "stars": 38015,
                 "topics": [
                   "compiler",
                   "language",
@@ -5939,6 +5960,35 @@
             },
             {
               "node_type": "item",
+              "title": "v-hash",
+              "description": "A hash library for vlang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A hash library for vlang.",
+                "homepage": "https://vpm.vlang.io/packages/deatil.hash",
+                "id": 1338379037,
+                "language": "V",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-21T14:59:45Z",
+                "open_issues": 0,
+                "owner": "deatil",
+                "repo": "v-hash",
+                "stars": 1,
+                "topics": [
+                  "hash",
+                  "md2",
+                  "md4",
+                  "vlang",
+                  "vlang-hash",
+                  "vlang-library",
+                  "vlang-package"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "v-rsa",
               "description": "A RSA library for vlang.",
               "children": [],
@@ -5963,35 +6013,6 @@
                 ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "v-hash",
-              "description": "A hash library for vlang.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A hash library for vlang.",
-                "homepage": "https://vpm.vlang.io/packages/deatil.hash",
-                "id": 1338379037,
-                "language": "V",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-21T14:59:45Z",
-                "open_issues": 0,
-                "owner": "deatil",
-                "repo": "v-hash",
-                "stars": 0,
-                "topics": [
-                  "hash",
-                  "md2",
-                  "md4",
-                  "vlang",
-                  "vlang-hash",
-                  "vlang-library",
-                  "vlang-package"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
             }
           ],
           "description": null,
@@ -6012,11 +6033,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:48:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-10-17T19:14:21Z",
+                "open_issues": 148,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38012,
+                "stars": 38015,
                 "topics": [
                   "compiler",
                   "language",
@@ -6627,7 +6648,7 @@
                     "language": "TypeScript",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-15T01:51:20Z",
-                    "open_issues": 59,
+                    "open_issues": 63,
                     "owner": "vlang",
                     "repo": "vscode-vlang",
                     "stars": 410,
@@ -7233,7 +7254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:50:08.969Z",
+    "last_updated": "2026-10-17T21:09:30.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome V frameworks, libraries, software and resources.",
@@ -7241,8 +7262,8 @@
       "id": 195092243,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-10T13:04:29Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-17T11:10:40Z",
+      "open_issues": 6,
       "owner": "vlang",
       "repo": "awesome-v",
       "stars": 2119,
@@ -7252,7 +7273,7 @@
         "v"
       ]
     },
-    "original_repository_sha": "fd0b67181b1c73bcba7b88923492673c63ff81e3",
+    "original_repository_sha": "d20f1c59bdfaefb576260ffb3078a1e88541d0d8",
     "enhanced_repository": "enhansome/enhansome-v",
     "enhanced_repository_description": null,
     "title": "Awesome V with stars"
