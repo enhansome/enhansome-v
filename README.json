@@ -301,7 +301,7 @@
                 "id": 363062521,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-04-17T06:19:01Z",
+                "last_commit": "2026-11-03T15:38:52Z",
                 "open_issues": 0,
                 "owner": "vlshcc",
                 "repo": "vlsh",
@@ -676,6 +676,27 @@
             },
             {
               "node_type": "item",
+              "title": "v-terminal-apps",
+              "description": "A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of high-quality terminal applications written in V, designed for productivity, learning, and daily use. Each application is self-contained, tested, and almost production-ready.",
+                "homepage": null,
+                "id": 1082456489,
+                "language": "V",
+                "license": "Unlicense",
+                "last_commit": "2025-11-02T23:04:11Z",
+                "open_issues": 1,
+                "owner": "cogrow4",
+                "repo": "V-Terminal-Apps",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "verve",
               "description": "Simple and fast static file server.",
               "children": [],
@@ -691,27 +712,6 @@
                 "owner": "MohammadMD1383",
                 "repo": "verve",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "v-terminal-apps",
-              "description": "A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of high-quality terminal applications written in V, designed for productivity, learning, and daily use. Each application is self-contained, tested, and almost production-ready.",
-                "homepage": null,
-                "id": 1082456489,
-                "language": "V",
-                "license": "Unlicense",
-                "last_commit": "2025-11-02T23:04:11Z",
-                "open_issues": 1,
-                "owner": "cogrow4",
-                "repo": "V-Terminal-Apps",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -844,7 +844,7 @@
                 "open_issues": 0,
                 "owner": "skandhas",
                 "repo": "vsnap",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -868,11 +868,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:22:54Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T21:34:20Z",
+                "open_issues": 182,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38086,
+                "stars": 38091,
                 "topics": [
                   "compiler",
                   "language",
@@ -894,8 +894,8 @@
                 "id": 172273904,
                 "language": "V",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T00:07:57Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-03T09:57:25Z",
+                "open_issues": 42,
                 "owner": "vlang",
                 "repo": "ved",
                 "stars": 1492,
@@ -1077,11 +1077,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:22:54Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T21:34:20Z",
+                "open_issues": 182,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38086,
+                "stars": 38091,
                 "topics": [
                   "compiler",
                   "language",
@@ -1410,11 +1410,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:22:54Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T21:34:20Z",
+                "open_issues": 182,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38086,
+                "stars": 38091,
                 "topics": [
                   "compiler",
                   "language",
@@ -1519,7 +1519,7 @@
                 "open_issues": 0,
                 "owner": "fermarsan",
                 "repo": "aixt",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "compiled-language",
                   "microcontrollers",
@@ -1712,7 +1712,7 @@
                 "open_issues": 49,
                 "owner": "vlang",
                 "repo": "vinix",
-                "stars": 2716,
+                "stars": 2718,
                 "topics": [
                   "hacktoberfest",
                   "operating-system",
@@ -2036,7 +2036,7 @@
                 "open_issues": 0,
                 "owner": "qptorrent",
                 "repo": "qptorrent",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -2285,7 +2285,7 @@
                 "open_issues": 6,
                 "owner": "khalyomede",
                 "repo": "mantis",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 0,
                 "owner": "scurty-labs",
                 "repo": "vblog",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -2362,6 +2362,31 @@
             },
             {
               "node_type": "item",
+              "title": "Tiniest Veb Server",
+              "description": "A < 1MB static hosting web server written in V, based on . 🍃",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tiniest Veb Server, the efficient multiplatform open source solution to host your static stuff, written in V",
+                "homepage": null,
+                "id": 755812599,
+                "language": "V",
+                "license": null,
+                "last_commit": "2024-09-29T18:11:35Z",
+                "open_issues": 0,
+                "owner": "davlgd",
+                "repo": "tVeb",
+                "stars": 18,
+                "topics": [
+                  "server",
+                  "vlang",
+                  "web"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "VTik",
               "description": "TikTok and Twitter video downloader app (CLI / Telegram Bot).",
               "children": [],
@@ -2378,31 +2403,6 @@
                 "repo": "VTik",
                 "stars": 18,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Tiniest Veb Server",
-              "description": "A < 1MB static hosting web server written in V, based on . 🍃",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tiniest Veb Server, the efficient multiplatform open source solution to host your static stuff, written in V",
-                "homepage": null,
-                "id": 755812599,
-                "language": "V",
-                "license": null,
-                "last_commit": "2024-09-29T18:11:35Z",
-                "open_issues": 0,
-                "owner": "davlgd",
-                "repo": "tVeb",
-                "stars": 17,
-                "topics": [
-                  "server",
-                  "vlang",
-                  "web"
-                ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
             },
@@ -2523,7 +2523,7 @@
                 "open_issues": 0,
                 "owner": "filipos800",
                 "repo": "mustela",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "compiler",
                   "documentation-engine",
@@ -2559,6 +2559,27 @@
             },
             {
               "node_type": "item",
+              "title": "Verne",
+              "description": "The other static site generator named after a famous French author.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The other static site generator named after a famous French author",
+                "homepage": null,
+                "id": 1228658267,
+                "language": "V",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-31T06:49:26Z",
+                "open_issues": 0,
+                "owner": "davlgd",
+                "repo": "Verne",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "Heroku Buildpack for V",
               "description": "Deploy V apps on Heroku.",
               "children": [],
@@ -2580,27 +2601,6 @@
                   "heroku-deployment",
                   "vlang"
                 ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Verne",
-              "description": "The other static site generator named after a famous French author.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The other static site generator named after a famous French author",
-                "homepage": null,
-                "id": 1228658267,
-                "language": "V",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-31T06:49:26Z",
-                "open_issues": 0,
-                "owner": "davlgd",
-                "repo": "Verne",
-                "stars": 2,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
             },
@@ -2775,7 +2775,7 @@
                 "open_issues": 0,
                 "owner": "quaesitor-scientiam",
                 "repo": "vebidor",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -2954,6 +2954,32 @@
             },
             {
               "node_type": "item",
+              "title": "vesseract",
+              "description": "V wrapper for Tesseract-OCR (optical character recognition).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A V wrapper for Tesseract-OCR",
+                "homepage": null,
+                "id": 424750874,
+                "language": "V",
+                "license": "MIT",
+                "last_commit": "2021-11-14T20:58:14Z",
+                "open_issues": 1,
+                "owner": "simonglob",
+                "repo": "vesseract",
+                "stars": 18,
+                "topics": [
+                  "ocr",
+                  "tesseract",
+                  "v",
+                  "wrapper"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "lol",
               "description": "V version of lolcat (text/character rainbowizer).",
               "children": [],
@@ -2971,32 +2997,6 @@
                 "stars": 17,
                 "topics": [
                   "v"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "vesseract",
-              "description": "V wrapper for Tesseract-OCR (optical character recognition).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A V wrapper for Tesseract-OCR",
-                "homepage": null,
-                "id": 424750874,
-                "language": "V",
-                "license": "MIT",
-                "last_commit": "2021-11-14T20:58:14Z",
-                "open_issues": 1,
-                "owner": "simonglob",
-                "repo": "vesseract",
-                "stars": 17,
-                "topics": [
-                  "ocr",
-                  "tesseract",
-                  "v",
-                  "wrapper"
                 ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -3381,11 +3381,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:22:54Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T21:34:20Z",
+                "open_issues": 182,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38086,
+                "stars": 38091,
                 "topics": [
                   "compiler",
                   "language",
@@ -3509,7 +3509,7 @@
                 "open_issues": 12,
                 "owner": "irishgreencitrus",
                 "repo": "raylib.v",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -3566,7 +3566,7 @@
                 "open_issues": 1,
                 "owner": "MajorHard",
                 "repo": "vraylib",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -3730,7 +3730,7 @@
                 "id": 225673579,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:50:13Z",
+                "last_commit": "2026-11-03T23:41:08Z",
                 "open_issues": 37,
                 "owner": "vlang",
                 "repo": "vsl",
@@ -3765,7 +3765,7 @@
                 "id": 225673579,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:50:13Z",
+                "last_commit": "2026-11-03T23:41:08Z",
                 "open_issues": 37,
                 "owner": "vlang",
                 "repo": "vsl",
@@ -3800,8 +3800,8 @@
                 "id": 252179691,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:20:15Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-03T15:39:00Z",
+                "open_issues": 6,
                 "owner": "vlang",
                 "repo": "sdl",
                 "stars": 106,
@@ -3884,8 +3884,33 @@
                 "open_issues": 0,
                 "owner": "vlang",
                 "repo": "vglyph",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
+              "title": "vqoi",
+              "description": "V: QOI - The \"Quite OK Image\" format for fast, lossless image compression.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "V: QOI - The \"Quite OK Image\" format for fast, lossless image compression",
+                "homepage": null,
+                "id": 476862538,
+                "language": "V",
+                "license": "MIT",
+                "last_commit": "2023-07-18T19:00:07Z",
+                "open_issues": 1,
+                "owner": "Le0Developer",
+                "repo": "vqoi",
+                "stars": 16,
+                "topics": [
+                  "qoi",
+                  "v",
+                  "vlang"
+                ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
             },
@@ -3907,31 +3932,6 @@
                 "repo": "earcut",
                 "stars": 15,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "vqoi",
-              "description": "V: QOI - The \"Quite OK Image\" format for fast, lossless image compression.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "V: QOI - The \"Quite OK Image\" format for fast, lossless image compression",
-                "homepage": null,
-                "id": 476862538,
-                "language": "V",
-                "license": "MIT",
-                "last_commit": "2023-07-18T19:00:07Z",
-                "open_issues": 1,
-                "owner": "Le0Developer",
-                "repo": "vqoi",
-                "stars": 15,
-                "topics": [
-                  "qoi",
-                  "v",
-                  "vlang"
-                ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
             },
@@ -3997,7 +3997,7 @@
                 "open_issues": 0,
                 "owner": "Avocadocs",
                 "repo": "svgg",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -4025,6 +4025,27 @@
             },
             {
               "node_type": "item",
+              "title": "voronoi",
+              "description": "V wrapper of JCash/voronoi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "V wrapper of https://github.com/JCash/voronoi",
+                "homepage": null,
+                "id": 316266814,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2025-12-18T15:57:24Z",
+                "open_issues": 0,
+                "owner": "larpon",
+                "repo": "voronoi",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "vbmp",
               "description": "Read and write bitmap files.",
               "children": [],
@@ -4044,27 +4065,6 @@
                   "vlang",
                   "vlang-package"
                 ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "voronoi",
-              "description": "V wrapper of JCash/voronoi.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "V wrapper of https://github.com/JCash/voronoi",
-                "homepage": null,
-                "id": 316266814,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2025-12-18T15:57:24Z",
-                "open_issues": 0,
-                "owner": "larpon",
-                "repo": "voronoi",
-                "stars": 2,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
             }
@@ -4373,11 +4373,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:22:54Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T21:34:20Z",
+                "open_issues": 182,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38086,
+                "stars": 38091,
                 "topics": [
                   "compiler",
                   "language",
@@ -4478,7 +4478,7 @@
                 "id": 225673579,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:50:13Z",
+                "last_commit": "2026-11-03T23:41:08Z",
                 "open_issues": 37,
                 "owner": "vlang",
                 "repo": "vsl",
@@ -4513,7 +4513,7 @@
                 "id": 225673579,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:50:13Z",
+                "last_commit": "2026-11-03T23:41:08Z",
                 "open_issues": 37,
                 "owner": "vlang",
                 "repo": "vsl",
@@ -4548,7 +4548,7 @@
                 "id": 225673579,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:50:13Z",
+                "last_commit": "2026-11-03T23:41:08Z",
                 "open_issues": 37,
                 "owner": "vlang",
                 "repo": "vsl",
@@ -4583,7 +4583,7 @@
                 "id": 225673579,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-02T22:50:13Z",
+                "last_commit": "2026-11-03T23:41:08Z",
                 "open_issues": 37,
                 "owner": "vlang",
                 "repo": "vsl",
@@ -4618,8 +4618,8 @@
                 "id": 302385880,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:43:50Z",
-                "open_issues": 52,
+                "last_commit": "2026-11-03T23:40:01Z",
+                "open_issues": 48,
                 "owner": "vlang",
                 "repo": "vtl",
                 "stars": 172,
@@ -4651,8 +4651,8 @@
                 "id": 302385880,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:43:50Z",
-                "open_issues": 52,
+                "last_commit": "2026-11-03T23:40:01Z",
+                "open_issues": 48,
                 "owner": "vlang",
                 "repo": "vtl",
                 "stars": 172,
@@ -4684,8 +4684,8 @@
                 "id": 302385880,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:43:50Z",
-                "open_issues": 52,
+                "last_commit": "2026-11-03T23:40:01Z",
+                "open_issues": 48,
                 "owner": "vlang",
                 "repo": "vtl",
                 "stars": 172,
@@ -4717,8 +4717,8 @@
                 "id": 302385880,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:43:50Z",
-                "open_issues": 52,
+                "last_commit": "2026-11-03T23:40:01Z",
+                "open_issues": 48,
                 "owner": "vlang",
                 "repo": "vtl",
                 "stars": 172,
@@ -5697,7 +5697,7 @@
                 "open_issues": 0,
                 "owner": "ttytm",
                 "repo": "dialog",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "cross-platform",
                   "dialog",
@@ -5732,7 +5732,7 @@
                 "open_issues": 0,
                 "owner": "Delta456",
                 "repo": "range",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "array",
                   "python",
@@ -5758,9 +5758,34 @@
                 "open_issues": 0,
                 "owner": "Ddiidev",
                 "repo": "Json2V",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "js",
+                  "vlang"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
+              "title": "vaker",
+              "description": "A light-weight compile-time-generated data faker written in V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Light-weight data faker built in V to generate massive amounts of fake (but realistic) data for testing and development.",
+                "homepage": null,
+                "id": 463922423,
+                "language": "V",
+                "license": "MIT",
+                "last_commit": "2023-09-06T15:11:37Z",
+                "open_issues": 0,
+                "owner": "ChAoSUnItY",
+                "repo": "vaker",
+                "stars": 19,
+                "topics": [
+                  "compile-time",
+                  "datafaker",
                   "vlang"
                 ]
               },
@@ -5794,31 +5819,6 @@
                   "vlang-library",
                   "vlang-module",
                   "vlang-package"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "vaker",
-              "description": "A light-weight compile-time-generated data faker written in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Light-weight data faker built in V to generate massive amounts of fake (but realistic) data for testing and development.",
-                "homepage": null,
-                "id": 463922423,
-                "language": "V",
-                "license": "MIT",
-                "last_commit": "2023-09-06T15:11:37Z",
-                "open_issues": 0,
-                "owner": "ChAoSUnItY",
-                "repo": "vaker",
-                "stars": 18,
-                "topics": [
-                  "compile-time",
-                  "datafaker",
-                  "vlang"
                 ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -5882,6 +5882,32 @@
             },
             {
               "node_type": "item",
+              "title": "vhs",
+              "description": "Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Haskell list functions implemented in v lang ",
+                "homepage": null,
+                "id": 557014263,
+                "language": "V",
+                "license": null,
+                "last_commit": "2024-04-14T15:00:51Z",
+                "open_issues": 0,
+                "owner": "KevinDaSilvaS",
+                "repo": "vhs",
+                "stars": 5,
+                "topics": [
+                  "hacktoberfest",
+                  "haskell",
+                  "v",
+                  "vlang"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "dotenv",
               "description": "Loads environment variables from a .env file for development purposes.",
               "children": [],
@@ -5905,32 +5931,6 @@
             },
             {
               "node_type": "item",
-              "title": "vhs",
-              "description": "Haskell prelude list functions(zip, zipwith, head, etc) implemented in V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Haskell list functions implemented in v lang ",
-                "homepage": null,
-                "id": 557014263,
-                "language": "V",
-                "license": null,
-                "last_commit": "2024-04-14T15:00:51Z",
-                "open_issues": 0,
-                "owner": "KevinDaSilvaS",
-                "repo": "vhs",
-                "stars": 4,
-                "topics": [
-                  "hacktoberfest",
-                  "haskell",
-                  "v",
-                  "vlang"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
               "title": "structlog",
               "description": "Structured logs library for V.",
               "children": [],
@@ -5945,7 +5945,7 @@
                 "open_issues": 0,
                 "owner": "gechandesu",
                 "repo": "structlog",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "json-logs",
                   "logger",
@@ -6033,11 +6033,11 @@
                 "id": 169677297,
                 "language": "V",
                 "license": "MIT",
-                "last_commit": "2026-11-03T01:22:54Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-03T21:34:20Z",
+                "open_issues": 182,
                 "owner": "vlang",
                 "repo": "v",
-                "stars": 38086,
+                "stars": 38091,
                 "topics": [
                   "compiler",
                   "language",
@@ -6167,7 +6167,7 @@
                 "open_issues": 0,
                 "owner": "endeveit",
                 "repo": "v-validate",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -6248,6 +6248,27 @@
             },
             {
               "node_type": "item",
+              "title": "jsonrpcv",
+              "description": "JSON-RPC 2.0 client+server implementation in pure V.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "JSON-RPC 2.0 client+server implementation in pure V",
+                "homepage": null,
+                "id": 1132359120,
+                "language": "V",
+                "license": "MIT",
+                "last_commit": "2026-04-24T10:56:49Z",
+                "open_issues": 0,
+                "owner": "Te4nick",
+                "repo": "jsonrpcv",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
               "title": "vest",
               "description": "A REST client in V.",
               "children": [],
@@ -6297,27 +6318,6 @@
                   "vweb",
                   "xbox-live"
                 ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "jsonrpcv",
-              "description": "JSON-RPC 2.0 client+server implementation in pure V.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JSON-RPC 2.0 client+server implementation in pure V",
-                "homepage": null,
-                "id": 1132359120,
-                "language": "V",
-                "license": "MIT",
-                "last_commit": "2026-04-24T10:56:49Z",
-                "open_issues": 0,
-                "owner": "Te4nick",
-                "repo": "jsonrpcv",
-                "stars": 7,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
             },
@@ -6383,7 +6383,7 @@
                 "open_issues": 0,
                 "owner": "deatil",
                 "repo": "v-jwt",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "jwt",
                   "v",
@@ -6391,6 +6391,29 @@
                   "vlang",
                   "vlang-jwt",
                   "vlang-package"
+                ]
+              },
+              "first_seen": "2026-08-29T01:57:00.835Z"
+            },
+            {
+              "node_type": "item",
+              "title": "blobly",
+              "description": "Central file server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Central file server",
+                "homepage": null,
+                "id": 970792892,
+                "language": "V",
+                "license": "NCSA",
+                "last_commit": "2026-09-07T15:32:08Z",
+                "open_issues": 0,
+                "owner": "einar-hjortdal",
+                "repo": "blobly",
+                "stars": 1,
+                "topics": [
+                  "storage"
                 ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -6419,29 +6442,6 @@
                   "v-sm3",
                   "vlang",
                   "vlang-package"
-                ]
-              },
-              "first_seen": "2026-08-29T01:57:00.835Z"
-            },
-            {
-              "node_type": "item",
-              "title": "blobly",
-              "description": "Central file server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Central file server",
-                "homepage": null,
-                "id": 970792892,
-                "language": "V",
-                "license": "NCSA",
-                "last_commit": "2026-09-07T15:32:08Z",
-                "open_issues": 0,
-                "owner": "einar-hjortdal",
-                "repo": "blobly",
-                "stars": 0,
-                "topics": [
-                  "storage"
                 ]
               },
               "first_seen": "2026-08-29T01:57:00.835Z"
@@ -6899,7 +6899,7 @@
                 "open_issues": 5,
                 "owner": "pisaiah",
                 "repo": "Vide",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "code-editor",
                   "editor",
@@ -7254,7 +7254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:24:51.369Z",
+    "last_updated": "2026-11-03T23:47:58.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome V frameworks, libraries, software and resources.",
