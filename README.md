@@ -84,7 +84,7 @@
 * [HN-top](https://github.com/BafS/hn-top) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2020-03-30 - A simple command to list most recent news from hacker-news.
 * [vlsh](https://github.com/vlshcc/vlsh) ⭐ 23 | 🐛 0 | 🌐 V | 📅 2026-11-03 - \*nix Shell written in V (pipes, plugins, mux mode, etc).
 * [klonol](https://github.com/hungrybluedev/klonol) ⭐ 20 | 🐛 1 | 🌐 V | 📅 2026-10-07 - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
-* [vfetch](https://github.com/carlosqsilva/vfetch) ⭐ 17 | 🐛 2 | 🌐 V | 📅 2026-04-21 - A macOS system information fetch written in V.
+* [vfetch](https://github.com/carlosqsilva/vfetch) ⭐ 17 | 🐛 2 | 🌐 V | 📅 2026-11-09 - A macOS system information fetch written in V.
 * [vLogQL](https://github.com/lmangani/vLogQL) ⭐ 17 | 🐛 0 | 🌐 V | 📅 2024-03-14 - A tiny command-line utility to query LogQL APIs.
 * [vinit](https://github.com/pranavbaburaj/vinit) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2021-05-26 - A tool to generate v projects.
 * [v\_llama\_cpp](https://github.com/sakana-ctf/v_llama_cpp) ⭐ 15 | 🐛 0 | 🌐 V | 📅 2026-06-17 - Lightweight V wrapper for Llama.cpp, enabling efficient LLM execution.
@@ -129,7 +129,7 @@
 
 ### Editors
 
-* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 38,089 | 🐛 234 | 🌐 V | 📅 2026-11-08 - Small text editor from the official V examples.
+* [text\_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) ⭐ 38,092 | 🐛 241 | 🌐 V | 📅 2026-11-10 - Small text editor from the official V examples.
 * [ved](https://github.com/vlang/ved) ⭐ 1,490 | 🐛 42 | 🌐 V | 📅 2026-11-03 - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 * [lilly](https://github.com/tauraamui/lilly) ⭐ 471 | 🐛 10 | 🌐 V | 📅 2026-10-19 - TUI editor and VIM/Neovim alternative.
 * [vPDF](https://github.com/vlang/pdf) ⭐ 83 | 🐛 0 | 🌐 V | 📅 2023-12-19 - A module to simplify PDF file creation using the V programming language.
@@ -140,7 +140,7 @@
 
 ### Games
 
-* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 38,089 | 🐛 234 | 🌐 V | 📅 2026-11-08 - A simple flappy learning demo in v.
+* [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) ⭐ 38,092 | 🐛 241 | 🌐 V | 📅 2026-11-10 - A simple flappy learning demo in v.
 * [Boundstone](https://github.com/organization/boundstone) ⭐ 62 | 🐛 3 | 🌐 V | 📅 2020-05-10 - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 * [Kurarin](https://github.com/FireRedz/kurarin) ⭐ 54 | 🐛 0 | 🌐 C | 📅 2026-10-08 - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 * [minesweeper](https://github.com/ali-furkan/minesweeper-v) ⭐ 39 | 🐛 0 | 🌐 V | 📅 2026-01-30 - A simple Minesweeper game written in vlang.
@@ -158,7 +158,7 @@
 
 ### Interpreters/Compilers
 
-* [v](https://github.com/vlang/v) ⭐ 38,089 | 🐛 234 | 🌐 V | 📅 2026-11-08 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
+* [v](https://github.com/vlang/v) ⭐ 38,092 | 🐛 241 | 🌐 V | 📅 2026-11-10 - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 * [cotowali](https://github.com/cotowali/cotowali) ⚠️ Archived - A statically typed scripting language that transpiles into POSIX sh.
 * [vas](https://github.com/v420v/vas) ⭐ 111 | 🐛 0 | 🌐 V | 📅 2026-10-28 - A simple x86-64 assembler written in V.
 * [vcc](https://github.com/lemoncmd/vcc) ⭐ 110 | 🐛 0 | 🌐 V | 📅 2024-03-05 - A C compiler written in V.
@@ -171,7 +171,7 @@
 
 ### Operating systems/Kernels
 
-* [Vinix](https://github.com/vlang/vinix) ⭐ 2,719 | 🐛 49 | 🌐 V | 📅 2026-11-08 - Small and simple OS in V. Runs bash.
+* [Vinix](https://github.com/vlang/vinix) ⭐ 2,721 | 🐛 49 | 🌐 V | 📅 2026-11-09 - Small and simple OS in V. Runs bash.
 * [V-Unikernel](https://github.com/vlang/unikernel) ⭐ 22 | 🐛 1 | 🌐 V | 📅 2024-10-20 - A unikernel is a computer program statically linked with the operating system code on which it depends.
 
 ### Package managers
@@ -198,7 +198,7 @@
 * [qptorrent](https://github.com/qptorrent/qptorrent) ⭐ 37 | 🐛 0 | 🌐 V | 📅 2026-02-25 - A minimal GUI/CLI BitTorrent client written in V + vlang/gui.
 * [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2024-05-26 - An emoji picker created with V, webview and SvelteKit.
 * [v-nodejs-addon](https://github.com/fanlia/v-nodejs-addon) ⭐ 7 | 🐛 0 | 🌐 Coq | 📅 2024-01-15 - An demo of how to create a Node.js addon with V.
-* [boj-server](https://github.com/hyperpolymath/boj-server) ⭐ 3 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-30 - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
+* [boj-server](https://github.com/hyperpolymath/boj-server) ⭐ 3 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-09 - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
 * [unix-emulators-win](https://github.com/Ddiidev/unix-emulators-win) ⭐ 1 | 🐛 0 | 🌐 V | 📅 2026-07-02 - Collection of 16 UNIX utilities rewritten in V for Windows.
 * [raur](https://github.com/Matejsdevelopment/raur) - Simple Arch User Repository (AUR) helper coded in Vlang.
 
@@ -254,7 +254,7 @@
 
 * [redis](https://github.com/patrickpissurno/vredis) ⭐ 70 | 🐛 5 | 🌐 V | 📅 2024-03-22 - A Redis client for V, written in V.
 * [mongodb](https://github.com/vlang/mongo) ⭐ 53 | 🐛 5 | 🌐 V | 📅 2024-09-06 - A MongoDB driver for V.
-* [vduckdb](https://github.com/rodabt/vduckdb) ⭐ 48 | 🐛 0 | 🌐 V | 📅 2026-02-11 - A DuckDB client wrapper for V.
+* [vduckdb](https://github.com/rodabt/vduckdb) ⭐ 48 | 🐛 0 | 🌐 V | 📅 2026-11-09 - A DuckDB client wrapper for V.
 * [vsql](https://github.com/lydiandy/vsql) ⭐ 47 | 🐛 1 | 🌐 V | 📅 2021-10-21 - A sql query builder for V.
 * [vmemcached](https://github.com/blacktrub/vmemcached) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2021-02-21 - Memcached client for V, written in V.
 * [leveldb](https://github.com/vlang/leveldb) ⭐ 10 | 🐛 0 | 🌐 V | 📅 2026-10-17 - Pure V implementation of LevelDB.
@@ -272,7 +272,7 @@
 
 ### Eventing
 
-* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 38,089 | 🐛 234 | 🌐 V | 📅 2026-11-08 - A simple event bus system for V.
+* [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) ⭐ 38,092 | 🐛 241 | 🌐 V | 📅 2026-11-10 - A simple event bus system for V.
 * [rxv](https://github.com/ulises-jeremias/rxv) ⭐ 16 | 🐛 32 | 🌐 V | 📅 2026-10-05 - Reactive Extensions for the V language. Compose async event streams with creation, filtering, transformation, aggregation, timing, and combination operators.
 
 ### File handling
@@ -325,13 +325,13 @@
 * [vmq](https://github.com/jordan-bonecutter/vmq) ⭐ 24 | 🐛 0 | 🌐 V | 📅 2025-02-06 -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 * [webrtc-v](https://github.com/bedrock-v/webrtc-v) ⭐ 13 | 🐛 2 | 🌐 V | 📅 2026-10-29 - A pure V implementation of the WebRTC protocol stack.
 * [raknet](https://github.com/bedrock-v/raknet) ⭐ 8 | 🐛 0 | 🌐 V | 📅 2026-10-21 - A V implementation of the classic RakNet protocol used by Minecraft: Bedrock Edition.
-* [netaddr](https://github.com/gechandesu/netaddr) ⭐ 6 | 🐛 0 | 🌐 V | 📅 2026-09-24 - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
+* [netaddr](https://github.com/gechandesu/netaddr) ⭐ 6 | 🐛 1 | 🌐 V | 📅 2026-09-24 - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 * [netio](https://github.com/gechandesu/netio) ⭐ 4 | 🐛 2 | 🌐 V | 📅 2026-11-05 - Low-level networking library for V that gives more control over sockets.
 * [netr](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 
 ### Operating system
 
-* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 38,089 | 🐛 234 | 🌐 V | 📅 2026-11-08 - V module for interacting with the OS clipboard. Fully cross-platform.
+* [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) ⭐ 38,092 | 🐛 241 | 🌐 V | 📅 2026-11-10 - V module for interacting with the OS clipboard. Fully cross-platform.
 * [vlipboard](https://github.com/asvvvad/vlipboard) ⭐ 12 | 🐛 0 | 🌐 V | 📅 2020-07-25 - An easy to use wrapper of clipboard with Wayland and Termux support.
 * [mmap](https://github.com/jdonnerstag/vlang-mmap) ⭐ 7 | 🐛 0 | 🌐 V | 📅 2021-06-21 - Provide native V-lang support for memory-mapping on Linux and Windows.
 * [winreg](https://github.com/ldedev/WindowsRegistry) ⭐ 5 | 🐛 0 | 🌐 V | 📅 2024-01-31 - MS Windows Registry API. (WIP)
@@ -395,7 +395,7 @@
 * [mui](https://github.com/malisipi/mui) ⭐ 111 | 🐛 10 | 🌐 V | 📅 2024-08-18 - A Cross-Platform UI library for Windows, Linux, Android and Web.
 * [webview](https://github.com/ttytm/webview) ⭐ 83 | 🐛 6 | 🌐 V | 📅 2024-12-02 - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 * [vgtk3](https://github.com/vgtk/vgtk3) ⭐ 64 | 🐛 3 | 🌐 V | 📅 2022-11-07 - A wrapper for GTK3 in V.
-* [vig](https://github.com/nsauzede/vig) ⭐ 55 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 77,023 | 🐛 1,219 | 🌐 C++ | 📅 2026-11-05 GUI toolkit.
+* [vig](https://github.com/nsauzede/vig) ⭐ 55 | 🐛 5 | 🌐 C | 📅 2024-02-19 - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 77,033 | 🐛 1,219 | 🌐 C++ | 📅 2026-11-09 GUI toolkit.
 * [vnk](https://github.com/nsauzede/vnk) ⭐ 52 | 🐛 2 | 🌐 V | 📅 2024-09-17 - Bindings for [Nuklear](https://github.com/vurtun/nuklear) ⚠️ Archived GUI toolkit.
 * [bobatea](https://github.com/tauraamui/bobatea) ⭐ 26 | 🐛 0 | 🌐 V | 📅 2026-10-16 - TUI framework inspired by Bubble Tea.
 
@@ -420,7 +420,7 @@
 
 ### Web
 
-* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 38,089 | 🐛 234 | 🌐 V | 📅 2026-11-08 - V's built-in web framework.
+* [veb](https://github.com/vlang/v/tree/master/vlib/veb) ⭐ 38,092 | 🐛 241 | 🌐 V | 📅 2026-11-10 - V's built-in web framework.
 * [vex](https://github.com/nedpals/vex) ⭐ 340 | 🐛 8 | 🌐 V | 📅 2024-02-03 - Web framework written on V inspired by Express and Sinatra.
 * [valval](https://github.com/taojy123/valval) ⭐ 157 | 🐛 3 | 🌐 V | 📅 2020-12-15 - Web framework written in V, improved by vweb.
 * [pico.v](https://github.com/S-YOU/pico.v) ⭐ 135 | 🐛 4 | 🌐 V | 📅 2020-09-05 - A web server in V based on picoev and picohttpparser.
@@ -478,7 +478,7 @@
 
 #### VS Code
 
-* [vscode-vlang](https://github.com/vlang/vscode-vlang) ⭐ 412 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-07 - V Language extension for Visual Studio Code.
+* [vscode-vlang](https://github.com/vlang/vscode-vlang) ⭐ 412 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-07 - V Language extension for Visual Studio Code.
 * [v-analyzer](https://github.com/vlang/v-analyzer) ⭐ 206 | 🐛 16 | 🌐 V | 📅 2026-11-02 - Bring IDE features for the V programming language to VS Code.
 
 #### Vim
@@ -489,7 +489,7 @@
 
 #### Zed
 
-* [zed-v](https://github.com/lv37/zed-v) ⭐ 43 | 🐛 7 | 🌐 Rust | 📅 2026-04-22 - Support for V syntax highlighting in Zed.
+* [zed-v](https://github.com/lv37/zed-v) ⭐ 44 | 🐛 7 | 🌐 Rust | 📅 2026-04-22 - Support for V syntax highlighting in Zed.
 
 ### Forums
 
@@ -557,4 +557,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
